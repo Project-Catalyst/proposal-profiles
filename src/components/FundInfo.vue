@@ -1,10 +1,10 @@
 <template>
   <div class="flex-container">
-    <div class="mx-auto d-inline-flex flex-column mb-5">
+    <div class="d-inline-flex flex-column m-3">
       <CFormSelect
         label="Category"
         size="lg"
-        class="m-1"
+        class="mb-2"
         style="width: 200px"
         @change="categoryChangeHandler"
         aria-label="Large select example"
@@ -18,7 +18,7 @@
         label="Type"
         size="lg"
         width="1em"
-        class="m-1"
+        class="mb-2"
         style="width: 200px"
         @change="typeChangeHandler"
         aria-label="Large select example"
@@ -31,7 +31,7 @@
       <CFormSelect
         label="Company"
         size="lg"
-        class="m-1"
+        class="mb-2"
         style="width: 200px"
         @change="companyChangeHandler"
         aria-label="Large select example"
@@ -44,7 +44,7 @@
       <CFormSelect
         label="Investment Stage"
         size="lg"
-        class="m-1"
+        class="mb-2"
         style="width: 200px"
         @change="investmentStageChangeHandler"
         aria-label="Large select example"
@@ -54,11 +54,11 @@
         </option>
       </CFormSelect>
     </div>
-    <div class="mx-auto d-inline-flex flex-column mb-5">
+    <div class="d-inline-flex flex-column m-3">
       <CFormSelect
         label="Region"
         size="lg"
-        class="m-1"
+        class="mb-2"
         style="width: 200px"
         @change="regionChangeHandler"
         aria-label="Large select example"
@@ -71,7 +71,7 @@
       <CFormSelect
         label="Country"
         size="lg"
-        class="m-1"
+        class="mb-2"
         style="width: 200px"
         @change="countryChangeHandler"
         aria-label="Large select example"
@@ -84,7 +84,7 @@
       <CFormSelect
         label="Acceleration Needs"
         size="lg"
-        class="m-1"
+        class="mb-2"
         style="width: 200px"
         @change="accelerationNeedsChangeHandler"
         aria-label="Large select example"
