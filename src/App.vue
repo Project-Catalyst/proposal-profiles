@@ -6,13 +6,13 @@
 
 <script>
 // import Users from "./components/UsersInfo.vue";
-import FundInfo from "./components/FundInfo.vue"
+import FundInfo from "./components/FundInfo.vue";
 
 export default {
   name: "app",
   components: {
     // Users,
-    FundInfo
+    FundInfo,
   },
 };
 </script>

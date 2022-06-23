@@ -1,15 +1,102 @@
 <template>
-  <div class="ui cards" style="margin: 10px">
-    <input style="margin: 10px" type="text" placeholder="by category..." v-model="categorySearchQuery" />
-    <input style="margin: 10px" type="text" placeholder="by type..." v-model="typeSearchQuery" />
-    <input style="margin: 10px" type="text" placeholder="by company..." v-model="companySearchQuery" />
-    <input style="margin: 10px" type="text" placeholder="by investment stage..." v-model="investmentStageSearchQuery" />
-    <input style="margin: 10px" type="text" placeholder="by region..." v-model="regionSearchQuery" />
-    <input style="margin: 10px" type="text" placeholder="by country..." v-model="countrySearchQuery" />
-    <input style="margin: 10px" type="text" placeholder="by acceleration needs..." v-model="accelerationNeedsSearchQuery" />
-    <div>
-      query result count {{resultCount}}
+  <div class="flex-container">
+    <div class="mx-auto d-inline-flex flex-column mb-5">
+      <CFormSelect
+        label="Category"
+        size="lg"
+        class="m-1"
+        style="width: 200px"
+        @change="categoryChangeHandler"
+        aria-label="Large select example"
+      >
+        <option v-for="option in categoryOptions" :key="option" :value="option">
+          {{ option }}
+        </option>
+      </CFormSelect>
+
+      <CFormSelect
+        label="Type"
+        size="lg"
+        width="1em"
+        class="m-1"
+        style="width: 200px"
+        @change="typeChangeHandler"
+        aria-label="Large select example"
+      >
+        <option v-for="option in typeOptions" :key="option" :value="option">
+          {{ option }}
+        </option>
+      </CFormSelect>
+
+      <CFormSelect
+        label="Company"
+        size="lg"
+        class="m-1"
+        style="width: 200px"
+        @change="companyChangeHandler"
+        aria-label="Large select example"
+      >
+        <option v-for="option in companyOptions" :key="option" :value="option">
+          {{ option }}
+        </option>
+      </CFormSelect>
+
+      <CFormSelect
+        label="Investment Stage"
+        size="lg"
+        class="m-1"
+        style="width: 200px"
+        @change="investmentStageChangeHandler"
+        aria-label="Large select example"
+      >
+        <option v-for="option in investmentStageOptions" :key="option" :value="option">
+          {{ option }}
+        </option>
+      </CFormSelect>
     </div>
+    <div class="mx-auto d-inline-flex flex-column mb-5">
+      <CFormSelect
+        label="Region"
+        size="lg"
+        class="m-1"
+        style="width: 200px"
+        @change="regionChangeHandler"
+        aria-label="Large select example"
+      >
+        <option v-for="option in regionOptions" :key="option" :value="option">
+          {{ option }}
+        </option>
+      </CFormSelect>
+
+      <CFormSelect
+        label="Country"
+        size="lg"
+        class="m-1"
+        style="width: 200px"
+        @change="countryChangeHandler"
+        aria-label="Large select example"
+      >
+        <option v-for="option in countryOptions" :key="option" :value="option">
+          {{ option }}
+        </option>
+      </CFormSelect>
+
+      <CFormSelect
+        label="Acceleration Needs"
+        size="lg"
+        class="m-1"
+        style="width: 200px"
+        @change="accelerationNeedsChangeHandler"
+        aria-label="Large select example"
+      >
+        <option v-for="option in accelerationNeedsOptions" :key="option" :value="option">
+          {{ option }}
+        </option>
+      </CFormSelect>
+    </div>
+  </div>
+  <div class="mx-auto">
+    <div>query result count {{ resultCount }}</div>
     <div
       class="card ui fluid"
       v-for="product in searchedProducts"
@@ -34,40 +121,115 @@ import f6 from "../../public/data/f6/data.json";
 import f7 from "../../public/data/f7/data.json";
 
 import { onMounted, reactive, ref, computed } from "vue";
+import { CFormSelect } from "@coreui/vue";
+
+// "@coreui/coreui": "^4.1.6",
+// "@coreui/vue": "^4.3.0",
+
+const categorySearchQuery = ref("");
+const typeSearchQuery = ref("");
+const companySearchQuery = ref("");
+const investmentStageSearchQuery = ref("");
+const regionSearchQuery = ref("");
+const countrySearchQuery = ref("");
+const accelerationNeedsSearchQuery = ref("");
 export default {
   setup() {
     const products = reactive(f2.concat(f3).concat(f4).concat(f5).concat(f6).concat(f7));
-    
-    const categorySearchQuery = ref("");
-    const typeSearchQuery = ref("");
-    const companySearchQuery = ref("");
-    const investmentStageSearchQuery = ref("");
-    const regionSearchQuery = ref("");
-    const countrySearchQuery = ref("");
-    const accelerationNeedsSearchQuery = ref("");
+
+    const categoryOptions = [...new Set(products.map((x) => x.Category))].sort();
+    const typeOptions = [...new Set(products.map((x) => x.Type))].sort();
+    const companyOptions = [...new Set(products.map((x) => x.PartOfACompany))].sort();
+    const investmentStageOptions = [...new Set(products.map((x) => x.Stage))].sort();
+    const regionOptions = [...new Set(products.map((x) => x.Region))].sort();
+    const countryOptions = [...new Set(products.map((x) => x.Country))].sort();
+    const accelerationNeedsOptions = [
+      ...new Set(products.map((x) => x.AccelerationNeeds)),
+    ].sort();
 
     const searchedProducts = computed(() => {
-      const foundProducts =  products.filter((product) => {
-          return (
-            (categorySearchQuery.value === "" || product.Category.toLowerCase().indexOf(categorySearchQuery.value.toLowerCase()) != -1) &&
-            (typeSearchQuery.value === "" || product.Type.toLowerCase().indexOf(typeSearchQuery.value.toLowerCase()) != -1) &&
-            (companySearchQuery.value === "" || product.PartOfACompany.toLowerCase().indexOf(companySearchQuery.value.toLowerCase()) != -1) &&
-            (investmentStageSearchQuery.value === "" || product.Stage.toLowerCase().indexOf(investmentStageSearchQuery.value.toLowerCase()) != -1) &&
-            (regionSearchQuery.value === "" || product.Region.toLowerCase().indexOf(regionSearchQuery.value.toLowerCase()) != -1) &&
-            (countrySearchQuery.value === "" || product.Country.toLowerCase().indexOf(countrySearchQuery.value.toLowerCase()) != -1) &&
-            (accelerationNeedsSearchQuery.value === "" || product.AccelerationNeeds.toLowerCase().indexOf(accelerationNeedsSearchQuery.value.toLowerCase()) != -1)
-          );
-        });
-      return foundProducts
+      const foundProducts = products.filter((product) => {
+        return (
+          (categorySearchQuery.value === "" ||
+            product.Category.toLowerCase().indexOf(
+              categorySearchQuery.value.toLowerCase()
+            ) != -1) &&
+          (typeSearchQuery.value === "" ||
+            product.Type.toLowerCase().indexOf(typeSearchQuery.value.toLowerCase()) !=
+              -1) &&
+          (companySearchQuery.value === "" ||
+            product.PartOfACompany.toLowerCase().indexOf(
+              companySearchQuery.value.toLowerCase()
+            ) != -1) &&
+          (investmentStageSearchQuery.value === "" ||
+            product.Stage.toLowerCase().indexOf(
+              investmentStageSearchQuery.value.toLowerCase()
+            ) != -1) &&
+          (regionSearchQuery.value === "" ||
+            product.Region.toLowerCase().indexOf(regionSearchQuery.value.toLowerCase()) !=
+              -1) &&
+          (countrySearchQuery.value === "" ||
+            product.Country.toLowerCase().indexOf(
+              countrySearchQuery.value.toLowerCase()
+            ) != -1) &&
+          (accelerationNeedsSearchQuery.value === "" ||
+            product.AccelerationNeeds.toLowerCase().indexOf(
+              accelerationNeedsSearchQuery.value.toLowerCase()
+            ) != -1)
+        );
+      });
+      return foundProducts;
     });
 
     const resultCount = computed(() => {
-       return searchedProducts.value.length
-    })
+      return searchedProducts.value.length;
+    });
 
     onMounted(async () => {});
-    return { searchedProducts, 
-    categorySearchQuery,  typeSearchQuery, companySearchQuery, investmentStageSearchQuery, regionSearchQuery, countrySearchQuery, accelerationNeedsSearchQuery, resultCount};
+    return {
+      categoryOptions,
+      typeOptions,
+      companyOptions,
+      investmentStageOptions,
+      regionOptions,
+      countryOptions,
+      accelerationNeedsOptions,
+      searchedProducts,
+      categorySearchQuery,
+      typeSearchQuery,
+      companySearchQuery,
+      investmentStageSearchQuery,
+      regionSearchQuery,
+      countrySearchQuery,
+      accelerationNeedsSearchQuery,
+      resultCount,
+    };
+  },
+  methods: {
+    categoryChangeHandler(event) {
+      categorySearchQuery.value = event.target.value;
+    },
+    typeChangeHandler(event) {
+      typeSearchQuery.value = event.target.value;
+    },
+    companyChangeHandler(event) {
+      companySearchQuery.value = event.target.value;
+    },
+    investmentStageChangeHandler(event) {
+      investmentStageSearchQuery.value = event.target.value;
+    },
+    regionChangeHandler(event) {
+      regionSearchQuery.value = event.target.value;
+    },
+    countryChangeHandler(event) {
+      countrySearchQuery.value = event.target.value;
+    },
+    accelerationNeedsChangeHandler(event) {
+      accelerationNeedsSearchQuery.value = event.target.value;
+    },
+  },
+  components: {
+    CFormSelect,
   },
 };
 </script>
