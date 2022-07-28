@@ -1,5 +1,5 @@
 <template>
-  <div class="flex-container">
+  <div id="filters" class="flex-container">
     <div class="d-inline-flex flex-column m-3">
       <CFormSelect
         label="Category"
@@ -95,18 +95,18 @@
       </CFormSelect>
     </div>
   </div>
-  <div class="mx-auto">
-    <div>query result count {{ resultCount }}</div>
+
+  <div id="query-results" class="mx-auto">
+    <div><span style="fontWeight: bold">QUERY RESULTS (count {{ resultCount }})</span></div>
     <div
-      class="card ui fluid"
+      class="card mx-auto"
       v-for="product in searchedProducts"
       :key="product.id"
-      style="margin: 10px"
     >
-      <div class="content">
-        <div class="header">{{ product.ID }}</div>
-        <div class="header">{{ product.ProjectName }}</div>
-        <div class="header">{{ product.About }}</div>
+      <div class="card-body">
+        <div class="card-title text-left"><span style="fontWeight: bold">Project ID: </span>{{ product.ID }}</div>
+        <div class="card-text text-left"><span style="fontWeight: bold">Title: </span>{{ product.ProjectName }}</div>
+        <div class="card-text text-left"><span style="fontWeight: bold">About: </span>{{ product.About }}</div>
       </div>
     </div>
   </div>
@@ -121,7 +121,7 @@ import f6 from "../../public/data/f6/data.json";
 import f7 from "../../public/data/f7/data.json";
 
 import { onMounted, reactive, ref, computed } from "vue";
-import { CFormSelect } from "@coreui/vue";
+import { CFormSelect} from "@coreui/vue";
 
 // "@coreui/coreui": "^4.1.6",
 // "@coreui/vue": "^4.3.0",
@@ -229,7 +229,7 @@ export default {
     },
   },
   components: {
-    CFormSelect,
+    CFormSelect
   },
 };
 </script>
