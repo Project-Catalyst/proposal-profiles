@@ -55,10 +55,6 @@ export default {
   padding-bottom: 2vh;
   border-width: 0;
 }
-#disclaimer {
-  width: 50vw;
-  /* left: 10vw; */
-}
 #query-results {
   background-color: #c7cfe25b;
   padding: 2vh;
