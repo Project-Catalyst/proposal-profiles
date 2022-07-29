@@ -8,6 +8,7 @@
       <div class="card-body">
         <h2 class="card-title text-left">Proposal Profiles Tool</h2>
         <h5 class="card-text text-left">This tool helps the community to find funded proposals.<br>By providing this information with a specific focus on core areas of strategy users can look for partnerships and mentorship opportunities.</h5>
+        <p class="card-text text-left"><em>This information was gathered by community members or funded proposals based on best available information. Please use it as an indication purposes only. No warrantees are made to the accuracy of the the information.</em></p>
       </div>    
     </div>
 
@@ -53,6 +54,10 @@ export default {
   padding-top: 1vh;
   padding-bottom: 2vh;
   border-width: 0;
+}
+#disclaimer {
+  width: 50vw;
+  /* left: 10vw; */
 }
 #query-results {
   background-color: #c7cfe25b;
