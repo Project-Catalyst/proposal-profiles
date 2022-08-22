@@ -15,20 +15,6 @@
       </CFormSelect>
 
       <CFormSelect
-        label="Type"
-        size="lg"
-        width="1em"
-        class="mb-2"
-        style="width: 200px"
-        @change="typeChangeHandler"
-        aria-label="Large select example"
-      >
-        <option v-for="option in typeOptions" :key="option" :value="option">
-          {{ option }}
-        </option>
-      </CFormSelect>
-
-      <CFormSelect
         label="Company"
         size="lg"
         class="mb-2"
@@ -127,7 +113,6 @@ import { CFormSelect} from "@coreui/vue";
 // "@coreui/vue": "^4.3.0",
 
 const categorySearchQuery = ref("");
-const typeSearchQuery = ref("");
 const companySearchQuery = ref("");
 const investmentStageSearchQuery = ref("");
 const regionSearchQuery = ref("");
@@ -154,9 +139,6 @@ export default {
             product.Category.toLowerCase().indexOf(
               categorySearchQuery.value.toLowerCase()
             ) != -1) &&
-          (typeSearchQuery.value === "" ||
-            product.Type.toLowerCase().indexOf(typeSearchQuery.value.toLowerCase()) !=
-              -1) &&
           (companySearchQuery.value === "" ||
             product.PartOfACompany.toLowerCase().indexOf(
               companySearchQuery.value.toLowerCase()
@@ -196,7 +178,6 @@ export default {
       accelerationNeedsOptions,
       searchedProducts,
       categorySearchQuery,
-      typeSearchQuery,
       companySearchQuery,
       investmentStageSearchQuery,
       regionSearchQuery,
@@ -208,9 +189,6 @@ export default {
   methods: {
     categoryChangeHandler(event) {
       categorySearchQuery.value = event.target.value;
-    },
-    typeChangeHandler(event) {
-      typeSearchQuery.value = event.target.value;
     },
     companyChangeHandler(event) {
       companySearchQuery.value = event.target.value;
