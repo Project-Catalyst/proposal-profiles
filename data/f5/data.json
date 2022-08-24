@@ -1,7 +1,7 @@
 [
   {
     "ID": 500068,
-    "Project Name": "WADA Uni Students Catalyst Registry",
+    "ProjectName": "WADA Uni Students Catalyst Registry",
     "About": "Diversify project catalyst inclusion through onboarding, navigation events, and resource provision for university students in West Africa",
     "Category": "Community",
     "PartOfACompany": "",
@@ -12,7 +12,7 @@
   },
   {
     "ID": 500038,
-    "Project Name": "Introducing Empowa",
+    "ProjectName": "Introducing Empowa",
     "About": "Empowa will be a unique decentralised property funding platform, empowering global communities to elevate living conditions & create wealth",
     "Category": "Company",
     "PartOfACompany": "Empowa",
@@ -23,7 +23,7 @@
   },
   {
     "ID": 500032,
-    "Project Name": "Glow Formal verification",
+    "ProjectName": "Glow Formal verification",
     "About": "MuKn's Glow language will overcome this problem by automatically proving the mathematical correctness of every interaction of a program.",
     "Category": "Company",
     "PartOfACompany": "Mukn",
@@ -34,7 +34,7 @@
   },
   {
     "ID": 500062,
-    "Project Name": "Step-by-Step Guide: Off-Chain Code",
+    "ProjectName": "Step-by-Step Guide: Off-Chain Code",
     "About": "Create an amazing guide for off-chain computation in Plutus that has working templates and a step-by-step walk-through for creating dApps.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -45,7 +45,7 @@
   },
   {
     "ID": 500055,
-    "Project Name": "Oracle Performance Metrics",
+    "ProjectName": "Oracle Performance Metrics",
     "About": "Periodically store performance metadata that has been appropriately signed for authenticity and provide a tool for aggregating this data.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -56,7 +56,7 @@
   },
   {
     "ID": 500057,
-    "Project Name": "PCDiscord - Bot to Assign Roles",
+    "ProjectName": "PCDiscord - Bot to Assign Roles",
     "About": "Integrate a bot into Discord what helps users govern ourselves",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -67,7 +67,7 @@
   },
   {
     "ID": 500006,
-    "Project Name": "Artificial Intelligence/ML API",
+    "ProjectName": "Artificial Intelligence/ML API",
     "About": "Creating apps for training AI & ML algorithms  to create a Artificial Intelligence/ML API",
     "Category": "Tech tools",
     "PartOfACompany": "Thecorpora",
@@ -78,7 +78,7 @@
   },
   {
     "ID": 500065,
-    "Project Name": "Tokenizing GitHub Pull request",
+    "ProjectName": "Tokenizing GitHub Pull request",
     "About": "An extension on GitHub that allow any project owner to tokenised the PR (Pull request) and reward contributors with ADA.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -89,7 +89,7 @@
   },
   {
     "ID": 500056,
-    "Project Name": "Paper wallet terminal for in a shop",
+    "ProjectName": "Paper wallet terminal for in a shop",
     "About": "A terminal at a shop where a customer can give the shop owner paper money. The customer gets an ADA wallet with the deposited amount",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -100,7 +100,7 @@
   },
   {
     "ID": 500063,
-    "Project Name": "Testnet Cardanoscan Explorer",
+    "ProjectName": "Testnet Cardanoscan Explorer",
     "About": "Cardanoscan has lots of developer-friendly insights into the Cardano blockchain. We will make the platform available for the testnet network",
     "Category": "Company",
     "PartOfACompany": "Cardano Scan",
@@ -111,7 +111,7 @@
   },
   {
     "ID": 500014,
-    "Project Name": "Cardano Student Clubs in Ethiopia",
+    "ProjectName": "Cardano Student Clubs in Ethiopia",
     "About": "A cardano students club and ambassadorship program will enable students to learn from each other and increase engagement in the community.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -122,7 +122,7 @@
   },
   {
     "ID": 500001,
-    "Project Name": "ADA news in African languages",
+    "ProjectName": "ADA news in African languages",
     "About": "Create a chain of YouTube channels bringing docutainment and a weekly edited news broadcast in native languages",
     "Category": "Community",
     "PartOfACompany": "",
@@ -133,7 +133,7 @@
   },
   {
     "ID": 500053,
-    "Project Name": "No-Code For Creative Africa",
+    "ProjectName": "No-Code For Creative Africa",
     "About": "Make the African Continent the go-to place for No-Code development then upmarket",
     "Category": "Company",
     "PartOfACompany": "",
@@ -144,7 +144,7 @@
   },
   {
     "ID": 500002,
-    "Project Name": "Part of Visual Studio code Market Plug in FUND4. Co-founded https://dragondefender.com, Co-founded https://www.cornucopias.io",
+    "ProjectName": "Part of Visual Studio code Market Plug in FUND4. Co-founded https://dragondefender.com, Co-founded https://www.cornucopias.io",
     "About": "",
     "Category": "",
     "PartOfACompany": "",
@@ -155,7 +155,7 @@
   },
   {
     "ID": 500047,
-    "Project Name": "NFT Key",
+    "ProjectName": "NFT Key",
     "About": "We will provide a service to verify and track ownership of NFTs. Ownership info available via APIs will enable access to gated services.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -166,7 +166,7 @@
   },
   {
     "ID": 500036,
-    "Project Name": "iGIVit - The Future of Giving",
+    "ProjectName": "iGIVit - The Future of Giving",
     "About": "With iGIVit, it will be easy to give and to keep track of all donations",
     "Category": "Company",
     "PartOfACompany": "Igiveit",
@@ -177,7 +177,7 @@
   },
   {
     "ID": 500039,
-    "Project Name": "Liqwid Protocol Security Audit",
+    "ProjectName": "Liqwid Protocol Security Audit",
     "About": "Liqwid Labs is building an open source lending protocol in Plutus with a team of 6 senior Haskell devs and development partner MLabs.",
     "Category": "Company",
     "PartOfACompany": "Liquid",
@@ -188,7 +188,7 @@
   },
   {
     "ID": 500040,
-    "Project Name": "Liqwid x Credmark R&D on Loan Risks",
+    "ProjectName": "Liqwid x Credmark R&D on Loan Risks",
     "About": "The Credmark team are DeFi experts and have worked extensively in developing risk-adjusted models for Ethereum DeFi lending protocols (Aave)",
     "Category": "Company",
     "PartOfACompany": "Liquid",
@@ -199,7 +199,7 @@
   },
   {
     "ID": 500066,
-    "Project Name": "Tutorial for Community Advisors",
+    "ProjectName": "Tutorial for Community Advisors",
     "About": "A Tutorial to onboard and teach new/existing Community Advisors to ensure high-quality assessments which help voters to make good decisions",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -210,7 +210,7 @@
   },
   {
     "ID": 500061,
-    "Project Name": "Smart Contract Audit Token SCAT DAO",
+    "ProjectName": "Smart Contract Audit Token SCAT DAO",
     "About": "A DAO which will have audit projects chosen by the community and funded entirely through their treasury with zero conflict of interest.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -221,7 +221,7 @@
   },
   {
     "ID": 500035,
-    "Project Name": "IdeaScale Improvements",
+    "ProjectName": "IdeaScale Improvements",
     "About": "We are proposing making improvements to the IdeaScale platform will allow the Cardano community to make better decisions.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -232,7 +232,7 @@
   },
   {
     "ID": 500022,
-    "Project Name": "Charles Hoskinson in Russian",
+    "ProjectName": "Charles Hoskinson in Russian",
     "About": "Translate in Russian Charles Hoskinson's YouTube videos (3 months period) to promote Cardano philosophy to 3% population.",
     "Category": "Other",
     "PartOfACompany": "",
@@ -243,7 +243,7 @@
   },
   {
     "ID": 500028,
-    "Project Name": "End-to-End No-code Cardano Apps",
+    "ProjectName": "End-to-End No-code Cardano Apps",
     "About": "Develop a Cardano blockchain module for flycode.io to allow anyone to create end-to-end apps that connect to smart contracts using no code",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -254,7 +254,7 @@
   },
   {
     "ID": 500018,
-    "Project Name": "Catalyst Site: Collaborators list",
+    "ProjectName": "Catalyst Site: Collaborators list",
     "About": "A list of potential collaborators and their skills that want to take part in proposals.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -265,7 +265,7 @@
   },
   {
     "ID": 500019,
-    "Project Name": "Catalyst Site: Education resources",
+    "ProjectName": "Catalyst Site: Education resources",
     "About": "Create a user friendly calendar page and aggregated resources for learning about Catalyst.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -276,7 +276,7 @@
   },
   {
     "ID": 500020,
-    "Project Name": "Catalyst Site: Project tracking",
+    "ProjectName": "Catalyst Site: Project tracking",
     "About": "Provide all funding history for projects and linking projects to their products / websites.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -287,7 +287,7 @@
   },
   {
     "ID": 500021,
-    "Project Name": "Catalyst Site:Improve proposal data",
+    "ProjectName": "Catalyst Site:Improve proposal data",
     "About": "Expand & improve team profile information. Enable categorization of projects. Create links between multiple proposals.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -298,7 +298,7 @@
   },
   {
     "ID": 500008,
-    "Project Name": "Blockchain Authentication Mechanism",
+    "ProjectName": "Blockchain Authentication Mechanism",
     "About": "Implement a decentralised authentication mechanism that will persist on chain, secrets and permissions based on metadata and native assets.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -309,7 +309,7 @@
   },
   {
     "ID": 500029,
-    "Project Name": "ErgoDex Plutus Port",
+    "ProjectName": "ErgoDex Plutus Port",
     "About": "ErgoDEX - a decentralized exchange that combines AMM with OrderBook in a single app in order to provide best user experience.",
     "Category": "Company",
     "PartOfACompany": "Ergodex",
@@ -320,7 +320,7 @@
   },
   {
     "ID": 500009,
-    "Project Name": "C64 NFTs Minter(on-chain+identity)",
+    "ProjectName": "C64 NFTs Minter(on-chain+identity)",
     "About": "Development of a light wallet that provides sovereignty to mint and sign non-fungible tokens (NFTs) 100% on-chain from digital assets .",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -331,7 +331,7 @@
   },
   {
     "ID": 500007,
-    "Project Name": "Barriers to Entry = Proposals",
+    "ProjectName": "Barriers to Entry = Proposals",
     "About": "Weekly workshops for \"Catalyst Skeptics\" in which newcomers identify barriers to entry that can be reframed as the seeds of new Proposals.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -342,7 +342,7 @@
   },
   {
     "ID": 500025,
-    "Project Name": "DaPassword - a password manager",
+    "ProjectName": "DaPassword - a password manager",
     "About": "DaPassword is a password manager that stores all your website passwords in the blockchain, along with bookmarks or anything important.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -353,7 +353,7 @@
   },
   {
     "ID": 500030,
-    "Project Name": "Free Commerce payment gateway",
+    "ProjectName": "Free Commerce payment gateway",
     "About": "To build an intermediary & commission-free payment gateway where native tokens (esp. stablecoins) & ADA flow directly from buyer to seller.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -364,7 +364,7 @@
   },
   {
     "ID": 500034,
-    "Project Name": "Hands-On Marketing in Addis Ababa",
+    "ProjectName": "Hands-On Marketing in Addis Ababa",
     "About": "Engage community via information sessions at local tech hubs. Hang posters and hand out flyers with specifics on upcoming Catalyst rounds",
     "Category": "Community",
     "PartOfACompany": "",
@@ -375,7 +375,7 @@
   },
   {
     "ID": 500005,
-    "Project Name": "Arnot - iOS SDK",
+    "ProjectName": "Arnot - iOS SDK",
     "About": "Create a software development kit (SDK) in Swift. Lay a foundation for building mobile Cardano apps without knowing cryptographic internals.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -386,7 +386,7 @@
   },
   {
     "ID": 500037,
-    "Project Name": "Inner-View with KEWW Video Series",
+    "ProjectName": "Inner-View with KEWW Video Series",
     "About": "Produce a video series of entry level interviews discussing Project Catalyst with its members & build a foundation of knowledge to grow from",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -397,7 +397,7 @@
   },
   {
     "ID": 500046,
-    "Project Name": "NFT Guaranteed Storage",
+    "ProjectName": "NFT Guaranteed Storage",
     "About": "Create a bridge from Cardano to Filecoin to ensure storage of tokens.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -408,7 +408,7 @@
   },
   {
     "ID": 500044,
-    "Project Name": "MinSwap - Multi-pool DEX",
+    "ProjectName": "MinSwap - Multi-pool DEX",
     "About": "Introducing MinSwap - a DEX on Cardano that supports multiple liquidity pool functions and initial token listing.",
     "Category": "Company",
     "PartOfACompany": "Minswap",
@@ -419,7 +419,7 @@
   },
   {
     "ID": 500064,
-    "Project Name": "The Quest for ADA",
+    "ProjectName": "The Quest for ADA",
     "About": "We will offer the whole fantasy gaming experience, story, exclusively hand-drawn artworks, world and game design will be fully hand-made!",
     "Category": "Company",
     "PartOfACompany": "AdaQuest",
@@ -430,7 +430,7 @@
   },
   {
     "ID": 500011,
-    "Project Name": "Cardano IPFS chronicles",
+    "ProjectName": "Cardano IPFS chronicles",
     "About": "We have built a community service where we archive all IPFS data that appears on the Cardano blockchain for future generations.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -441,7 +441,7 @@
   },
   {
     "ID": 500041,
-    "Project Name": "Localize Yoroi for Czech market",
+    "ProjectName": "Localize Yoroi for Czech market",
     "About": "Provide Yoroi with a localized Czech interface. This needs to be up to date with each new Yoroi update and coordinated with translators.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -452,7 +452,7 @@
   },
   {
     "ID": 500042,
-    "Project Name": "Localize Yoroi for Slovak market",
+    "ProjectName": "Localize Yoroi for Slovak market",
     "About": "Provide Yoroi with a localized Slovak interface. This needs to be up to date with each new Yoroi update and coordinated with translators.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -463,7 +463,7 @@
   },
   {
     "ID": 500043,
-    "Project Name": "Metadata oracle endpoint in Yoroi",
+    "ProjectName": "Metadata oracle endpoint in Yoroi",
     "About": "We want to implement a Yoroi backend endpoint that will provide the metadata oracles datapoints. This proposal has been over fund3 budget.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -474,7 +474,7 @@
   },
   {
     "ID": 500069,
-    "Project Name": "Websocket link for Blockfrost API",
+    "ProjectName": "Websocket link for Blockfrost API",
     "About": "Build a Websocket link for Blockfrost API standard to enable developers to better optimize their applications.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -485,7 +485,7 @@
   },
   {
     "ID": 500003,
-    "Project Name": "ALDEA Catalyst Spanish Support Site",
+    "ProjectName": "ALDEA Catalyst Spanish Support Site",
     "About": "ALDEA Catalyst is a site for people to find information in Spanish about Catalyst and develop hot valuable skills for the ecosystem.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -496,7 +496,7 @@
   },
   {
     "ID": 500004,
-    "Project Name": "ALDEA Wiki - Cardano Encyclopedia",
+    "ProjectName": "ALDEA Wiki - Cardano Encyclopedia",
     "About": "ALDEA Wiki is the go-to place to both find and share knowledge and information about all things Cardano in a multi-language platform.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -507,7 +507,7 @@
   },
   {
     "ID": 500016,
-    "Project Name": "Cashout and Buy ADA in Ethiopia",
+    "ProjectName": "Cashout and Buy ADA in Ethiopia",
     "About": "A service where people can buy and cash out ADA in local currency to enjoy thier investment returns and pay with thier ADA.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -518,7 +518,7 @@
   },
   {
     "ID": 500067,
-    "Project Name": "WADA Media Funnel for Proposers",
+    "ProjectName": "WADA Media Funnel for Proposers",
     "About": "Create engaging visual content to document proposal journey from the bottom up, and to motivate new users to come to into Project Catalyst.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -529,7 +529,7 @@
   },
   {
     "ID": 500033,
-    "Project Name": "Graph DB Sidechain with Fluree",
+    "ProjectName": "Graph DB Sidechain with Fluree",
     "About": "Build a provable, data-centric sidechain for DApps with Fluree immutable graph ledger/DB that leverages W3C semantic linked-data standards",
     "Category": "Company",
     "PartOfACompany": "Fluree",
@@ -540,7 +540,7 @@
   },
   {
     "ID": 500023,
-    "Project Name": "Control your data - privacy ledger",
+    "ProjectName": "Control your data - privacy ledger",
     "About": "People use Profila's App to learn + exercise data rights; the privacy metadata ledger then provides legal proof = \"unsubscribe on steroids",
     "Category": "Company",
     "PartOfACompany": "Profila",
@@ -551,7 +551,7 @@
   },
   {
     "ID": 500045,
-    "Project Name": "Networking events",
+    "ProjectName": "Networking events",
     "About": "Start a networking event and invite a prominent speaker to each event. These would become the first blockchain meetups in Addis Ababa.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -562,7 +562,7 @@
   },
   {
     "ID": 500012,
-    "Project Name": "Cardano JS API",
+    "ProjectName": "Cardano JS API",
     "About": "Develop library on top of cardano-graphql and cardano-serilazation-lib, with transparent methods to work with Cardano cryptography & data.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -573,7 +573,7 @@
   },
   {
     "ID": 500052,
-    "Project Name": "nft-maker.io -> Full NFT platform",
+    "ProjectName": "nft-maker.io -> Full NFT platform",
     "About": "We want to expand nft-maker.io to a point where it's not only a minting tool but also a decentralized market place for multi-media NFTs.",
     "Category": "Company",
     "PartOfACompany": "NFT Maker",
@@ -584,7 +584,7 @@
   },
   {
     "ID": 500017,
-    "Project Name": "Catalyst Community Tools",
+    "ProjectName": "Catalyst Community Tools",
     "About": "Build tools to improve the efficiency of Proposers and Community Advisors work during Catalyst proposals' assessment and review phases.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -595,7 +595,7 @@
   },
   {
     "ID": 500031,
-    "Project Name": "FREE MONEY Direct Marketing",
+    "ProjectName": "FREE MONEY Direct Marketing",
     "About": "Work with WW Entrepreneurial Community Builders to drive awareness of alternative funding thru Catalyst for blockchain projects.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -606,7 +606,7 @@
   },
   {
     "ID": 500048,
-    "Project Name": "NFT-DAO EZ-Honor contribution token",
+    "ProjectName": "NFT-DAO EZ-Honor contribution token",
     "About": "Develop a staged approach to tokenomics that will enable a progression from simple, through intermediate to complex token incentivisation.",
     "Category": "Company",
     "PartOfACompany": "NFTDAO",
@@ -617,7 +617,7 @@
   },
   {
     "ID": 500049,
-    "Project Name": "NFT-DAO EZ-Name",
+    "ProjectName": "NFT-DAO EZ-Name",
     "About": "Improve user experience by mapping human-readable names like 'alice.ada' to machine-readable identifiers such as Cardano addresses.",
     "Category": "Company",
     "PartOfACompany": "NFTDAO",
@@ -628,7 +628,7 @@
   },
   {
     "ID": 500050,
-    "Project Name": "NFT-DAO EZ-On Interop NFTs",
+    "ProjectName": "NFT-DAO EZ-On Interop NFTs",
     "About": "Space Travel—standardize NFT's across chains, including whether to wrap and burn, or if we can bring them over somehow without burning them.",
     "Category": "Company",
     "PartOfACompany": "NFTDAO",
@@ -639,7 +639,7 @@
   },
   {
     "ID": 500051,
-    "Project Name": "NFT-DAO EZ-Pay API wallet connector",
+    "ProjectName": "NFT-DAO EZ-Pay API wallet connector",
     "About": "Build extended wallet bridges to traditional systems like VISA, Venmo and a hub for things like MetaMask, Yoroi, Daedalus & exchanges.",
     "Category": "Company",
     "PartOfACompany": "NFTDAO",
@@ -650,7 +650,7 @@
   },
   {
     "ID": 500015,
-    "Project Name": "Cardano Wallet Flutter SDK",
+    "ProjectName": "Cardano Wallet Flutter SDK",
     "About": "Publish an open-source Flutter library to encourage mobile app development in the Cardano ecosystem.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -661,7 +661,7 @@
   },
   {
     "ID": 500027,
-    "Project Name": "Elixir SDK",
+    "ProjectName": "Elixir SDK",
     "About": "Create an SDK that implements modules to make Elixir developers able to use Wallets, Addresses, Keys, Transactions, etc",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -672,7 +672,7 @@
   },
   {
     "ID": 500054,
-    "Project Name": "Open Ideas and Data For Cooperation",
+    "ProjectName": "Open Ideas and Data For Cooperation",
     "About": "Build data pipelines off-chain to integrate proposal and community tools in a form suitable for integration by structures of accountability.",
     "Category": "Company",
     "PartOfACompany": "ADAGOV",
@@ -683,7 +683,7 @@
   },
   {
     "ID": 500024,
-    "Project Name": "Dandelion: Cardano API market",
+    "ProjectName": "Dandelion: Cardano API market",
     "About": "Build a market of API gateway deployments that serves as backbone for projects; specially for DeFi ones, whose criticality is high.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -694,7 +694,7 @@
   },
   {
     "ID": 500010,
-    "Project Name": "Cardano Connector (Metamask-like)",
+    "ProjectName": "Cardano Connector (Metamask-like)",
     "About": "A Chrome extension connector (similar to Metamask) that will enable communication between wallets and DApps.",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -705,7 +705,7 @@
   },
   {
     "ID": 500013,
-    "Project Name": "Cardano Rust SDK update for Alonzo",
+    "ProjectName": "Cardano Rust SDK update for Alonzo",
     "About": "We will update this library for future updates to Cardano and also provide support & functionality to those who depend on it.",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -716,7 +716,7 @@
   },
   {
     "ID": 500026,
-    "Project Name": "Developer Evangelist Japan",
+    "ProjectName": "Developer Evangelist Japan",
     "About": "A specialized developer evangelist will be supporting the local ecosystem in Japanese, and also managing multiple activities.",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -727,7 +727,7 @@
   },
   {
     "ID": 500060,
-    "Project Name": "Quality-Assurance-DAO",
+    "ProjectName": "Quality-Assurance-DAO",
     "About": "Innovative approach to open source. Reform PM to distributed peer facilitation. Adapt maturity standards to distributed organizations.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -738,7 +738,7 @@
   },
   {
     "ID": 500058,
-    "Project Name": "PCDiscord - Bot to create channels",
+    "ProjectName": "PCDiscord - Bot to create channels",
     "About": "A bot what can create a channel in a correct place and give the channel full access to the creator",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -749,7 +749,7 @@
   },
   {
     "ID": 500059,
-    "Project Name": "PCDiscord Miro board for Onboarding",
+    "ProjectName": "PCDiscord Miro board for Onboarding",
     "About": "Create a one-page Miro guideline board to introduce the Discord server and its members",
     "Category": "Catalyst",
     "PartOfACompany": "",

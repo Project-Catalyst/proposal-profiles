@@ -1,7 +1,7 @@
 [
   {
     "ID": "",
-    "Project Name": "Comprehensive NFT Framework Collab",
+    "ProjectName": "Comprehensive NFT Framework Collab",
     "About": "Coordinate an NFT DAO that implements all NFT DApp requirements to build a penultimate composable NFT Framework—a WAX Killer on Cardano.",
     "Category": "Company",
     "PartOfACompany": "NFTDAO",
@@ -12,7 +12,7 @@
   },
   {
     "ID": 300020,
-    "Project Name": "Visual Studio Smart Contract Plugin",
+    "ProjectName": "Visual Studio Smart Contract Plugin",
     "About": "Plugin for Visual Studio code that simplifies how you create Smart Contracts on Cardano by creating a template project and instructions on how to get started.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -23,7 +23,7 @@
   },
   {
     "ID": 300006,
-    "Project Name": "CardanoSharp - .NET Library",
+    "ProjectName": "CardanoSharp - .NET Library",
     "About": "Build a collection of libraries that will help facilitate .NET development for Cardano.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -34,7 +34,7 @@
   },
   {
     "ID": 300004,
-    "Project Name": "Cardano IntelliJ IDEA Plugin (MVP)",
+    "ProjectName": "Cardano IntelliJ IDEA Plugin (MVP)",
     "About": "Build an IntelliJ plugin with following features: - Configure a node in IntelliJ - Account mgmt - UI for Transaction & native token mgmt",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -45,7 +45,7 @@
   },
   {
     "ID": 300021,
-    "Project Name": "Write Dapps as continuous workflows",
+    "ProjectName": "Write Dapps as continuous workflows",
     "About": "Express the entire program flow within a Haskell monad which set HTTP endpoints for microservices and uses Plutus endpoints",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -56,7 +56,7 @@
   },
   {
     "ID": 300002,
-    "Project Name": "ADA MakerSpace - DEV lessons",
+    "ProjectName": "ADA MakerSpace - DEV lessons",
     "About": "ADA MakerSpace provides free video lessons for anyone interested in learning how to build things that will run on the Cardano blockchain",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -67,7 +67,7 @@
   },
   {
     "ID": 300014,
-    "Project Name": "Liqwid Developer Portal:Cardano SDK",
+    "ProjectName": "Liqwid Developer Portal:Cardano SDK",
     "About": "1. JavaScript SDK for Cardano & the Liqwid Protocol. The SDK wraps around the Adrestia JS SDK, 2. Oracle Open Price Feed SDK, 3. Android SDK",
     "Category": "Company",
     "PartOfACompany": "Liquid",
@@ -78,7 +78,7 @@
   },
   {
     "ID": 300015,
-    "Project Name": "Liqwid:Cardano DeFi Liquidity Pools",
+    "ProjectName": "Liqwid:Cardano DeFi Liquidity Pools",
     "About": "Open source algorithmic & non-custodial liquidity protocol for earning interest on Cardano native assets and borrowing supported assets.",
     "Category": "Company",
     "PartOfACompany": "Liquid",
@@ -89,7 +89,7 @@
   },
   {
     "ID": 300012,
-    "Project Name": "Food traceability solution - Africa",
+    "ProjectName": "Food traceability solution - Africa",
     "About": "Mapping potential opportunities in Nigeria to apply a pilot using the outcomes of \"EMURGO Traceability Solution\" implemented in Indonesia.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -100,7 +100,7 @@
   },
   {
     "ID": 300011,
-    "Project Name": "Digital Asset Inheritance",
+    "ProjectName": "Digital Asset Inheritance",
     "About": "A dapp to automate fund transfers in case of death, allowing users to also share seed phrases encoded as \"personal memories\" with loved ones",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -111,7 +111,7 @@
   },
   {
     "ID": 300001,
-    "Project Name": "ABCD",
+    "ProjectName": "ABCD",
     "About": "ABCD will create opportunities for Africans providing blockchain solutions to the world utilizing the pool of talent working from Africa.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -122,7 +122,7 @@
   },
   {
     "ID": 300003,
-    "Project Name": "Ada Tx to Trigger IoT + IO HW Spins",
+    "ProjectName": "Ada Tx to Trigger IoT + IO HW Spins",
     "About": "Adosia will build new open HW and integrate monitoring of Ada payments into the Adosia IoT platform to enable custom IoT device triggering",
     "Category": "Company",
     "PartOfACompany": "Adosia",
@@ -133,7 +133,7 @@
   },
   {
     "ID": 300005,
-    "Project Name": "Cardano serialization library in Go",
+    "ProjectName": "Cardano serialization library in Go",
     "About": "We want to create Cardano serialization library for Go.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -144,7 +144,7 @@
   },
   {
     "ID": 300013,
-    "Project Name": "Implement CIP12 to Yoroi Backends",
+    "ProjectName": "Implement CIP12 to Yoroi Backends",
     "About": "We will implement CIP12 communications to Yoroi backend software.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -155,7 +155,7 @@
   },
   {
     "ID": 300016,
-    "Project Name": "Metadata oracle node",
+    "ProjectName": "Metadata oracle node",
     "About": "We want to build an operator-friendly node software and would lower the barrier of entry for new oracle operators.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -166,7 +166,7 @@
   },
   {
     "ID": 300017,
-    "Project Name": "Metadata oracles explorer",
+    "ProjectName": "Metadata oracles explorer",
     "About": "We would like to build a public metadata oracles explorer, that will serve as a go-to place for the developers to learn more about oracles.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -177,7 +177,7 @@
   },
   {
     "ID": 300018,
-    "Project Name": "Python module",
+    "ProjectName": "Python module",
     "About": "Create a Python module that implements base classes for Wallet, Address, Key, Transaction, etc. and offers well-structured exception tree.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -188,7 +188,7 @@
   },
   {
     "ID": 300010,
-    "Project Name": "Developer & SPO Tools [CNTools]",
+    "ProjectName": "Developer & SPO Tools [CNTools]",
     "About": "Provide integrations in CNTools to easily query chain data and integrate third-party developed applications.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -199,7 +199,7 @@
   },
   {
     "ID": 300009,
-    "Project Name": "Decentralized Accounting <- IFRS",
+    "ProjectName": "Decentralized Accounting <- IFRS",
     "About": "I want to implement a blank balance sheet in Plutus.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -210,7 +210,7 @@
   },
   {
     "ID": 300008,
-    "Project Name": "Dapp for business contracts",
+    "ProjectName": "Dapp for business contracts",
     "About": "Create an easy to use app for widely available mobile phones where people can upload PDF contacts and sign or verify them.",
     "Category": "Idea - company",
     "PartOfACompany": "",

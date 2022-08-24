@@ -1,7 +1,7 @@
 [
   {
     "ID": 200004,
-    "Project Name": "GimbaLabs (Cardano Starter Kits & APIs)",
+    "ProjectName": "GimbaLabs (Cardano Starter Kits & APIs)",
     "About": "Free Open source API & project based learning, resources that empower people from different backgrounds, to drive adoption of Cardano",
     "Category": "Community",
     "PartOfACompany": "GimbaLabs",
@@ -12,7 +12,7 @@
   },
   {
     "ID": 200005,
-    "Project Name": "Haskell/Plutus/Marlowe Education",
+    "ProjectName": "Haskell/Plutus/Marlowe Education",
     "About": "I want to create educational content that conveys complex information in a structured way supplemented with examples that inspire new ideas.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -23,7 +23,7 @@
   },
   {
     "ID": 200009,
-    "Project Name": "Lovelace Academy",
+    "ProjectName": "Lovelace Academy",
     "About": "Cardano's Smarter Contracts Series: Marlowe and Plutus + GitHub Tutorials. Making Sense of Cardano Series: Using Cardano in the real-world",
     "Category": "Community",
     "PartOfACompany": "Lovelace Academy",
@@ -34,7 +34,7 @@
   },
   {
     "ID": 200007,
-    "Project Name": "Japan Cardano Governance Association-Meetings & Communities & Podcasts",
+    "ProjectName": "Japan Cardano Governance Association-Meetings & Communities & Podcasts",
     "About": "(Contnet in Japanese) The proposal is based on marketing and promotion but for the Japanese market in Japanese. The goal is to raise Japanese participation in Governance of Cardano",
     "Category": "Community",
     "PartOfACompany": "",
@@ -45,7 +45,7 @@
   },
   {
     "ID": 200003,
-    "Project Name": "Create message signing standard",
+    "ProjectName": "Create message signing standard",
     "About": "Implement our specification you can find here: https://github.com/Emurgo/EmIPs/pull/5 (see \"previous work\" section for more information)",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -56,7 +56,7 @@
   },
   {
     "ID": 200008,
-    "Project Name": "Liqwid: Cardano DeFi Lending Markets",
+    "ProjectName": "Liqwid: Cardano DeFi Lending Markets",
     "About": "Open source DeFi lending app; automated liquidity pools so users can be the bank and govern the protocol with incentives to bootstrap credit",
     "Category": "Company",
     "PartOfACompany": "Liquid",
@@ -67,7 +67,7 @@
   },
   {
     "ID": 200001,
-    "Project Name": "Address Gap in SPO Education/Comms",
+    "ProjectName": "Address Gap in SPO Education/Comms",
     "About": "Create high value content targeting SPOs and establish communication channels bridges to enable effective dissemination and feedback to CF",
     "Category": "Company",
     "PartOfACompany": "Spocra",
@@ -78,7 +78,7 @@
   },
   {
     "ID": 200012,
-    "Project Name": "PoolTool Upgrade Project",
+    "ProjectName": "PoolTool Upgrade Project",
     "About": "Our platform will offer avenues to build businesses and applications on top of Cardano to differentiate SPOs by additional product offering.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -89,7 +89,7 @@
   },
   {
     "ID": 200010,
-    "Project Name": "Ouroboros over RINA",
+    "ProjectName": "Ouroboros over RINA",
     "About": "Deploy a proof of concept stake pool and relay solution of Ouroborus over RINA using Ethernet/WDM at two sites in Tokyo, Japan.",
     "Category": "SPO",
     "PartOfACompany": "Rina User Group",
@@ -100,7 +100,7 @@
   },
   {
     "ID": 200011,
-    "Project Name": "Pet Registry and ADA Api",
+    "ProjectName": "Pet Registry and ADA Api",
     "About": "₳Pay API helps devs accept ADA payments on websites. Pet Registry dApp, built on ₳Pay, services a global audience in a cheaper, better way.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -111,7 +111,7 @@
   },
   {
     "ID": 200006,
-    "Project Name": "IoT Utility Dapp - Sign Tx Arduino",
+    "ProjectName": "IoT Utility Dapp - Sign Tx Arduino",
     "About": "Create an Arduino IDE compatible C library to sign local Cardano transactions - enable immediate applications for embedded & IoT pre-Goguen",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -122,7 +122,7 @@
   },
   {
     "ID": 200002,
-    "Project Name": "Cardano for Mobile Developers",
+    "ProjectName": "Cardano for Mobile Developers",
     "About": "Turn mobile platforms into first-class citizens of dApps world: - Mobile SDKs, - Mobile-first dApp experience, - AppStores compatibility",
     "Category": "Company",
     "PartOfACompany": "Tesseract",
