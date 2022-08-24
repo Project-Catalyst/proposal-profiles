@@ -1,7 +1,7 @@
 [
   {
     "ID": 400019,
-    "Project Name": "Guided Onboarding Experience",
+    "ProjectName": "Guided Onboarding Experience",
     "About": "Deliver a guided onboarding experience to condense ramp-up, triage talent, and motivate DAY 1 action, while creating community connections.",
     "Category": "Catalyst",
     "PartOfACompany": "Swarm",
@@ -12,7 +12,7 @@
   },
   {
     "ID": 400014,
-    "Project Name": "Diversify Voting Influence",
+    "ProjectName": "Diversify Voting Influence",
     "About": "Design and evaluate a variety of voting saturation and aggregation algorithms that balances the influence of small and large stakeholders.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -23,7 +23,7 @@
   },
   {
     "ID": 400049,
-    "Project Name": "West Africa Proposer Outreach",
+    "ProjectName": "West Africa Proposer Outreach",
     "About": "A 2-Day Virtual Event with guest speakers, project proposals, interviews, live Q&A and 2x1-hour webinar workshops (French & English)",
     "Category": "Community",
     "PartOfACompany": "WADA",
@@ -34,7 +34,7 @@
   },
   {
     "ID": 400030,
-    "Project Name": "Local Centers in West Africa",
+    "ProjectName": "Local Centers in West Africa",
     "About": "Creating a community hub of local centers in Africa",
     "Category": "Community",
     "PartOfACompany": "WADA",
@@ -45,7 +45,7 @@
   },
   {
     "ID": 400007,
-    "Project Name": "Cardano China Info Hub",
+    "ProjectName": "Cardano China Info Hub",
     "About": "Raise awareness and eliminate misconception of Cardano in China by creating accurate, easy-to-digest video and text content in Chinese.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -56,7 +56,7 @@
   },
   {
     "ID": 400032,
-    "Project Name": "NFT-DAO NFT metadata standards",
+    "ProjectName": "NFT-DAO NFT metadata standards",
     "About": "We'll engage industry experts to identify or define standards, work with IOG and industry consortiums to document NFT metadata standards.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -67,7 +67,7 @@
   },
   {
     "ID": 400003,
-    "Project Name": "Adagov.org (Co-creation)",
+    "ProjectName": "Adagov.org (Co-creation)",
     "About": "ADA Govs is a group fosued on supporting catalyst. Their mission is to help the Cardano community solve collective governance by putting the proposal pieces together.\nTo build a team of teams that provide resources and peer-reviews.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -78,7 +78,7 @@
   },
   {
     "ID": 400012,
-    "Project Name": "Cardano-based Marketplace",
+    "ProjectName": "Cardano-based Marketplace",
     "About": "The marketplace will allow any user to sell any verifiable token on the Cardano blockchain using smart contracts written in Plutus.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -89,7 +89,7 @@
   },
   {
     "ID": 400009,
-    "Project Name": "Cardano On-Chain Voting",
+    "ProjectName": "Cardano On-Chain Voting",
     "About": "Developed, deployed, and successfully executed the first Cardano on-chain vote.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -100,7 +100,7 @@
   },
   {
     "ID": 400035,
-    "Project Name": "PlayerMint: Token System for Gamers",
+    "ProjectName": "PlayerMint: Token System for Gamers",
     "About": "PlayerMint will be a free-to-play platform that rewards gamers with fungible and non-fungible tokens based on their gameplay performance.",
     "Category": "Company",
     "PartOfACompany": "Player Mint",
@@ -111,7 +111,7 @@
   },
   {
     "ID": 400034,
-    "Project Name": "Ouroboros Networking Lib in JS",
+    "ProjectName": "Ouroboros Networking Lib in JS",
     "About": "Create Ouroboros Networking package in Javascript, which allows talking to Cardano node by easily installing the NPM package",
     "Category": "Company",
     "PartOfACompany": "Cardano Scan",
@@ -122,7 +122,7 @@
   },
   {
     "ID": 400031,
-    "Project Name": "Meta-Memory (Fmrly Fed. Debate)",
+    "ProjectName": "Meta-Memory (Fmrly Fed. Debate)",
     "About": "Break ideas/statements into digestible parts. Debate each sub-point, voting, logic analysis, idea linking, commenting, and meta-analysis.",
     "Category": "Other",
     "PartOfACompany": "",
@@ -133,7 +133,7 @@
   },
   {
     "ID": 400008,
-    "Project Name": "Cardano Mobile App",
+    "ProjectName": "Cardano Mobile App",
     "About": "A Mobile App to educate on Project Catalyst, manage tasks for roles being worked on. Members will be rewarded with Catalyst tokens.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -144,7 +144,7 @@
   },
   {
     "ID": 400038,
-    "Project Name": "pruf.io: Media-rich NFTs on Cardano",
+    "ProjectName": "pruf.io: Media-rich NFTs on Cardano",
     "About": "Port the PRüF protocol from Ethereum to Cardano, providing a feature-rich, low-or-no-code NFT onramp for both new and existing projects.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -155,7 +155,7 @@
   },
   {
     "ID": 400020,
-    "Project Name": "Haskell DeFi SDK for Plutus Devs",
+    "ProjectName": "Haskell DeFi SDK for Plutus Devs",
     "About": "Plutus DeFi SDK is an open-source set of smart contracts designed for DeFi portfolio accounting; the on-chain balanceOf for DeFi protocols.",
     "Category": "Company",
     "PartOfACompany": "Liquid",
@@ -166,7 +166,7 @@
   },
   {
     "ID": 400021,
-    "Project Name": "Haskell Devs for Liqwid Plutus SC's",
+    "ProjectName": "Haskell Devs for Liqwid Plutus SC's",
     "About": "Team of 6 senior fullstack Haskell devs with deep fintech backgrounds currently building on the Plutus eUTXO smart contract system on TN.",
     "Category": "Company",
     "PartOfACompany": "Liquid",
@@ -177,7 +177,7 @@
   },
   {
     "ID": 400004,
-    "Project Name": "AdaStat.net Platform Upgrade",
+    "ProjectName": "AdaStat.net Platform Upgrade",
     "About": "Our platform will implement support for native tokens, smart contracts, and all other new features in the Cardano blockchain",
     "Category": "Tech tools",
     "PartOfACompany": "Adastat",
@@ -188,7 +188,7 @@
   },
   {
     "ID": 400040,
-    "Project Name": "Real Estate Investment Platform",
+    "ProjectName": "Real Estate Investment Platform",
     "About": "A platform for investors to purchase a property or join an investment fund that invests in real estate with full transparency",
     "Category": "Company",
     "PartOfACompany": "Estati",
@@ -199,7 +199,7 @@
   },
   {
     "ID": 400023,
-    "Project Name": "HW wallet passphrase recovery tool",
+    "ProjectName": "HW wallet passphrase recovery tool",
     "About": "Add Cardano (ADA) support and GPU acceleration support to widely used and publicly known tool named btcrecover.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -210,7 +210,7 @@
   },
   {
     "ID": 400006,
-    "Project Name": "Cardano Adoption in D.R. of Congo",
+    "ProjectName": "Cardano Adoption in D.R. of Congo",
     "About": "Create a local Blockchain Hub for Solution Design, for both developer and policy-maker onboarding.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -221,7 +221,7 @@
   },
   {
     "ID": 400046,
-    "Project Name": "University/College Outreach",
+    "ProjectName": "University/College Outreach",
     "About": "Reach student associations and faculties to raise awareness. Social media blitz combined with newsletters and outreach activities to engage.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -232,7 +232,7 @@
   },
   {
     "ID": 400015,
-    "Project Name": "Education/Developer center - Sweden",
+    "ProjectName": "Education/Developer center - Sweden",
     "About": "Educate on a local level and build a local community. Office (Stockholm) at co-working center to build an incubation culture.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -243,7 +243,7 @@
   },
   {
     "ID": 400045,
-    "Project Name": "The Great Filter",
+    "ProjectName": "The Great Filter",
     "About": "Empower decision making by filtering proposals with a transparent set of principles, and broadcast the results in a consumer friendly manner",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -254,7 +254,7 @@
   },
   {
     "ID": 400001,
-    "Project Name": ".NET SDK for Blockfrost API",
+    "ProjectName": ".NET SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for .NET developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -265,7 +265,7 @@
   },
   {
     "ID": 400005,
-    "Project Name": "Arduino SDK for Blockfrost API",
+    "ProjectName": "Arduino SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Arduino developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -276,7 +276,7 @@
   },
   {
     "ID": 400016,
-    "Project Name": "Elixir SDK for Blockfrost API",
+    "ProjectName": "Elixir SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Elixir developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -287,7 +287,7 @@
   },
   {
     "ID": 400018,
-    "Project Name": "Golang SDK for Blockfrost API",
+    "ProjectName": "Golang SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Go developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -298,7 +298,7 @@
   },
   {
     "ID": 400022,
-    "Project Name": "Haskell SDK for Blockfrost API",
+    "ProjectName": "Haskell SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Haskell developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -309,7 +309,7 @@
   },
   {
     "ID": 400025,
-    "Project Name": "Java SDK for Blockfrost API",
+    "ProjectName": "Java SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Java developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -320,7 +320,7 @@
   },
   {
     "ID": 400026,
-    "Project Name": "JavaScript SDK for Blockfrost API",
+    "ProjectName": "JavaScript SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for JavaScript developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -331,7 +331,7 @@
   },
   {
     "ID": 400027,
-    "Project Name": "Kotlin SDK for Blockfrost API",
+    "ProjectName": "Kotlin SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Kotlin developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -342,7 +342,7 @@
   },
   {
     "ID": 400033,
-    "Project Name": "Nodeless command line interface",
+    "ProjectName": "Nodeless command line interface",
     "About": "We would like to build a lightweight command line interface on top of Blockfrost, API as a Service, saving developers' time and resources.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -353,7 +353,7 @@
   },
   {
     "ID": 400039,
-    "Project Name": "Python SDK for Blockfrost API",
+    "ProjectName": "Python SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Python developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -364,7 +364,7 @@
   },
   {
     "ID": 400041,
-    "Project Name": "Ruby SDK for Blockfrost API",
+    "ProjectName": "Ruby SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Ruby developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -375,7 +375,7 @@
   },
   {
     "ID": 400042,
-    "Project Name": "Rust SDK for Blockfrost API",
+    "ProjectName": "Rust SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Rust developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -386,7 +386,7 @@
   },
   {
     "ID": 400043,
-    "Project Name": "Scala SDK for Blockfrost API",
+    "ProjectName": "Scala SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Scala developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -397,7 +397,7 @@
   },
   {
     "ID": 400044,
-    "Project Name": "Swift SDK for Blockfrost API",
+    "ProjectName": "Swift SDK for Blockfrost API",
     "About": "We want to build an open-source SDK (Software Development Kit - a set of tools, libraries and documentation) for Swift developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -408,7 +408,7 @@
   },
   {
     "ID": 400051,
-    "Project Name": "Yoroi ⇄ Blockfrost bridge",
+    "ProjectName": "Yoroi ⇄ Blockfrost bridge",
     "About": "Build a bridge between Yoroi and Blockfrost.io, so that developers can use extended endpoint set to develop advanced features more easily.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -419,7 +419,7 @@
   },
   {
     "ID": 400050,
-    "Project Name": "West Africa: Dev Tools & Events",
+    "ProjectName": "West Africa: Dev Tools & Events",
     "About": "Educating developers on Cardano by developing Haskell & Plutus educational material and high-impact virtual workshops, events and hackathons",
     "Category": "Community",
     "PartOfACompany": "WADA",
@@ -430,7 +430,7 @@
   },
   {
     "ID": 400024,
-    "Project Name": "Infographics - Series 1",
+    "ProjectName": "Infographics - Series 1",
     "About": "Create a series of info graphics that visually describe Project Catalyst.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -441,7 +441,7 @@
   },
   {
     "ID": 400037,
-    "Project Name": "Project Catalyst Landing Page",
+    "ProjectName": "Project Catalyst Landing Page",
     "About": "Build a community driven Community Landing Page that links to the various material relating to Project Catalyst.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -452,7 +452,7 @@
   },
   {
     "ID": 400047,
-    "Project Name": "Visual Studio Code Market Plugin",
+    "ProjectName": "Visual Studio Code Market Plugin",
     "About": "FREE plugin will simplify Cardano Smart Contract creations with a project template and instructions to attract the wider OCEAN developers",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -463,7 +463,7 @@
   },
   {
     "ID": 400010,
-    "Project Name": "Cardano Podcast Interviews w/Teams",
+    "ProjectName": "Cardano Podcast Interviews w/Teams",
     "About": "We don't know who are the people behind each project on Catalyst. We can only read their and the name of the author.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -474,7 +474,7 @@
   },
   {
     "ID": 400013,
-    "Project Name": "Cardax - DEX on Cardano",
+    "ProjectName": "Cardax - DEX on Cardano",
     "About": "Cardax - The first DEX in the Cardano ecosystem. Cardax will be like Uniswap but on Cardano.",
     "Category": "Idea - company",
     "PartOfACompany": "Cardax",
@@ -485,7 +485,7 @@
   },
   {
     "ID": 400017,
-    "Project Name": "Free Online Course about Catalyst",
+    "ProjectName": "Free Online Course about Catalyst",
     "About": "An online course with videos that explains step by step what Catalyst is, how they can submit their proposal, how voting works, etc",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -496,7 +496,7 @@
   },
   {
     "ID": 400028,
-    "Project Name": "Littercoin - Mass Adoption",
+    "ProjectName": "Littercoin - Mass Adoption",
     "About": "OpenLitterMap.com rewards users with Littercoin by applying proof of work principles to citizen science for the first time.",
     "Category": "Idea - company",
     "PartOfACompany": "Open Litter Map",
@@ -507,7 +507,7 @@
   },
   {
     "ID": 400048,
-    "Project Name": "West Africa Catalyst Onboarding",
+    "ProjectName": "West Africa Catalyst Onboarding",
     "About": "Implement a diversified membership scheme to attract and engage W/Africans to contribute to Project Catalyst goals",
     "Category": "Community",
     "PartOfACompany": "WADA",
@@ -518,7 +518,7 @@
   },
   {
     "ID": 400011,
-    "Project Name": "Cardano spanish training programs",
+    "ProjectName": "Cardano spanish training programs",
     "About": "There are no educational resources for spanish speakers who want to develop and grow their Cardano local community.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -529,7 +529,7 @@
   },
   {
     "ID": 400002,
-    "Project Name": "ADA Visual Scripting VSCode Ext.",
+    "ProjectName": "ADA Visual Scripting VSCode Ext.",
     "About": "A VSCode plugin for Plutus/Haskell to visualize on-chain transactions, smart contracts, state machine, etc. using nodegraph 'flow' diagrams.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -540,7 +540,7 @@
   },
   {
     "ID": 400029,
-    "Project Name": "Live Coding Mentor Marketplace",
+    "ProjectName": "Live Coding Mentor Marketplace",
     "About": "A marketplace for students & founders to find mentors and/or pro coders to help them through issues, tasks, & train in live coding sessions",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -551,7 +551,7 @@
   },
   {
     "ID": 400036,
-    "Project Name": "PoolTool-Testnet Support",
+    "ProjectName": "PoolTool-Testnet Support",
     "About": "We have spun up the testnet on the main pooltool platform with limited features and would like to have the fund cover our base expenses",
     "Category": "Tech tools",
     "PartOfACompany": "",

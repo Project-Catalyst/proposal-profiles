@@ -1,7 +1,7 @@
 [
   {
     "ID": 700052,
-    "Project Name": "Cardano Totem: Onboarding the World",
+    "ProjectName": "Cardano Totem: Onboarding the World",
     "About": "A counter-top device for on-boarding, which prints a paper wallet. Using this receipt a user can interact with Cardano in a central location",
     "Category": "Company",
     "PartOfACompany": "Gamechanger",
@@ -12,7 +12,7 @@
   },
   {
     "ID": 700125,
-    "Project Name": "GameChanger CLI: ready2use outputs",
+    "ProjectName": "GameChanger CLI: ready2use outputs",
     "About": "We propose to extend current URL and QR code generation from GCScripts, with plain HTML, React and Nodejs snippets.",
     "Category": "Company",
     "PartOfACompany": "Gamechanger",
@@ -23,7 +23,7 @@
   },
   {
     "ID": 700126,
-    "Project Name": "GameChanger: Dandelion Deployment",
+    "ProjectName": "GameChanger: Dandelion Deployment",
     "About": "We propose to grow LATAM adoption and contributing back to Dandelion network by deploying 3 nodes in this region.",
     "Category": "Company",
     "PartOfACompany": "Gamechanger",
@@ -34,7 +34,7 @@
   },
   {
     "ID": 700127,
-    "Project Name": "GameChanger: Ledger HW support",
+    "ProjectName": "GameChanger: Ledger HW support",
     "About": "We will research and build Trezor and Ledger support to enhance our rich feature set with extra security, for users and dapp builders.",
     "Category": "Company",
     "PartOfACompany": "Gamechanger",
@@ -45,7 +45,7 @@
   },
   {
     "ID": 700128,
-    "Project Name": "GameChanger: smart contract support",
+    "ProjectName": "GameChanger: smart contract support",
     "About": "We will research and add smart contract support aiming to provide the easiest posible DAPP integrations to help onboard builders & students",
     "Category": "Company",
     "PartOfACompany": "Gamechanger",
@@ -56,7 +56,7 @@
   },
   {
     "ID": 700129,
-    "Project Name": "GameChanger: Spanish and Portuguese",
+    "ProjectName": "GameChanger: Spanish and Portuguese",
     "About": "Integrate commonly used i18n and translations in spanish and portuguese for our main product, GameChanger Wallet.",
     "Category": "Company",
     "PartOfACompany": "Gamechanger",
@@ -67,7 +67,7 @@
   },
   {
     "ID": 700003,
-    "Project Name": "₳GOV: Agreements Building Platform",
+    "ProjectName": "₳GOV: Agreements Building Platform",
     "About": "A decision-making tool that provides a way to create community-driven agreements by integrating continuous voting with discussion features.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -78,7 +78,7 @@
   },
   {
     "ID": 700140,
-    "Project Name": "Impact innovation accelerator",
+    "ProjectName": "Impact innovation accelerator",
     "About": "Use an existing purpose led business model that uses Cardano appropriate language and mentors with demonstrable experience of success",
     "Category": "Company",
     "PartOfACompany": "Equip Business",
@@ -89,7 +89,7 @@
   },
   {
     "ID": 700232,
-    "Project Name": "Small SPO Impact Business Programme",
+    "ProjectName": "Small SPO Impact Business Programme",
     "About": "Use an existing purpose led business model that uses Cardano appropriate language and mentors with demonstrable experience of success",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -100,7 +100,7 @@
   },
   {
     "ID": 700199,
-    "Project Name": "OpenScienceNFT Marketplace",
+    "ProjectName": "OpenScienceNFT Marketplace",
     "About": "With osNFTs, researchers can publish, retain ownership of their work and distribute it to the general population in a marketable fashion.",
     "Category": "Company",
     "PartOfACompany": "intellart",
@@ -111,7 +111,7 @@
   },
   {
     "ID": 700208,
-    "Project Name": "PanDAO: Focus on interoperability",
+    "ProjectName": "PanDAO: Focus on interoperability",
     "About": "A Cardano-based governance system, with modular components for interacting with other chains and managing treasuries and decision-making.",
     "Category": "Company",
     "PartOfACompany": "intellart",
@@ -122,7 +122,7 @@
   },
   {
     "ID": 700102,
-    "Project Name": "DWill - Cardanos Digital Testament",
+    "ProjectName": "DWill - Cardanos Digital Testament",
     "About": "SmartContracts in Cardano can provide the basis for secure automation of Testaments and Decentralized Identities can enable the use case",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -133,7 +133,7 @@
   },
   {
     "ID": 700218,
-    "Project Name": "Proposals Mentors Marketplace -Cont",
+    "ProjectName": "Proposals Mentors Marketplace -Cont",
     "About": "Build out further capacity to the PMM to offer assistance to funded Catalyst Projects.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -144,7 +144,7 @@
   },
   {
     "ID": 700255,
-    "Project Name": "Token Allies, Latam Businesses",
+    "ProjectName": "Token Allies, Latam Businesses",
     "About": "We aim to provide a platform where businesses and start ups from LATAM will be able to easily create, manage and sell their business tokens.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -155,7 +155,7 @@
   },
   {
     "ID": 700221,
-    "Project Name": "Rapid Funding with ML Voting Agents",
+    "ProjectName": "Rapid Funding with ML Voting Agents",
     "About": "A rapid-funding process with weekly awards, a simpler pipeline, ML voting agents to reduce voting workload, and human approval of decisions.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -166,7 +166,7 @@
   },
   {
     "ID": 700023,
-    "Project Name": "AVOUM on Cardano",
+    "ProjectName": "AVOUM on Cardano",
     "About": "AVOUM presents an account view on eUTxO blockchains, together with a notion of malleable transactions, which enable much higher concurrency.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -177,7 +177,7 @@
   },
   {
     "ID": 700060,
-    "Project Name": "Catalyst Circle Mentorship",
+    "ProjectName": "Catalyst Circle Mentorship",
     "About": "Funding via Catalyst to ensure adequate time for members of the previous Circle to provide mentorship and assistance to the new Circle.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -188,7 +188,7 @@
   },
   {
     "ID": 700227,
-    "Project Name": "Roadmap to Creating a Legal Entity",
+    "ProjectName": "Roadmap to Creating a Legal Entity",
     "About": "Document how to create a legal entity used for accounting, tax, and financial purposes for an entrepreneur being paid in ADA.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -199,7 +199,7 @@
   },
   {
     "ID": 700004,
-    "Project Name": "1st universal E-learning connector",
+    "ProjectName": "1st universal E-learning connector",
     "About": "A connector between learners and platforms that stores data in Cardano, where only the user owns and accesses his/her learning data.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -210,7 +210,7 @@
   },
   {
     "ID": 700061,
-    "Project Name": "Catalyst Circle Treasury Management",
+    "ProjectName": "Catalyst Circle Treasury Management",
     "About": "Build a system that makes CC operations frictionless and auditable when it comes to resource allocation.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -221,7 +221,7 @@
   },
   {
     "ID": 700041,
-    "Project Name": "Cardano Hub Indonesia - Workshops",
+    "ProjectName": "Cardano Hub Indonesia - Workshops",
     "About": "Building Cardano Indonesia Community by providing information & knowledge via workshops, led by Indonesian collaborators themselves.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -232,7 +232,7 @@
   },
   {
     "ID": 700099,
-    "Project Name": "DID for Cardano Indonesia Community",
+    "ProjectName": "DID for Cardano Indonesia Community",
     "About": "Create verifiable credentials (VCs) for the Cardano Indonesia Community for membership and workshop certificates.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -243,7 +243,7 @@
   },
   {
     "ID": 700220,
-    "Project Name": "Qinesis: QiGong & mindfulness Dapp",
+    "ProjectName": "Qinesis: QiGong & mindfulness Dapp",
     "About": "The next generation of meditation app : a combination of still and moving meditation with blockchain  monetization strategies.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -254,7 +254,7 @@
   },
   {
     "ID": 700143,
-    "Project Name": "Infinity Financial Operating System",
+    "ProjectName": "Infinity Financial Operating System",
     "About": "A Financial Operating System (FOS) named Infinity, as layer 1.5 infrastructure, which uses layer-2 scaling and layer-1 core technologies",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -265,7 +265,7 @@
   },
   {
     "ID": 700095,
-    "Project Name": "DeFi School - Latin America",
+    "ProjectName": "DeFi School - Latin America",
     "About": "Development of a practical course on DeFI in Portuguese, consisting of video lessons on Youtube, gitbook and community support on Discord.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -276,7 +276,7 @@
   },
   {
     "ID": 700028,
-    "Project Name": "Browser tool- How to use DeFi dApps",
+    "ProjectName": "Browser tool- How to use DeFi dApps",
     "About": "Integrated educational video tips via a popup browser extension that explain how to use specific DeFi dApps as you interact with them",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -287,7 +287,7 @@
   },
   {
     "ID": 700228,
-    "Project Name": "Seed Liquidity Pools for NFT DeFi",
+    "ProjectName": "Seed Liquidity Pools for NFT DeFi",
     "About": "Proper initial seeding of NFT liquidity pools will showcase Fungify's potential to enable the use of NFTs in DeFi.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -298,7 +298,7 @@
   },
   {
     "ID": 700120,
-    "Project Name": "Forecasting Cardano Native Tokens",
+    "ProjectName": "Forecasting Cardano Native Tokens",
     "About": "We propose the development of an automated valuation method for native tokens based on tools of machine intelligence for complex systems.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -309,7 +309,7 @@
   },
   {
     "ID": 700202,
-    "Project Name": "P2P Transactions based on Trust",
+    "ProjectName": "P2P Transactions based on Trust",
     "About": "Enable trustful and private P2P market transaction by using a 'history of trust' in areas where no central marketplace solutions exist",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -320,7 +320,7 @@
   },
   {
     "ID": 700063,
-    "Project Name": "Catalyst Leadership Academy",
+    "ProjectName": "Catalyst Leadership Academy",
     "About": "The Catalyst Leadership Academy is where community members can teach and learn leadership skills. Offer high-quality and relevant courses.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -331,7 +331,7 @@
   },
   {
     "ID": 700241,
-    "Project Name": "Stake Pool Key Documentation",
+    "ProjectName": "Stake Pool Key Documentation",
     "About": "Based on the CoinCashew SPO guilde, I intend to publish a diagram to visually document the SPO key creation process to aid understanding.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -342,7 +342,7 @@
   },
   {
     "ID": 700051,
-    "Project Name": "Cardano Text Resources in Chinese",
+    "ProjectName": "Cardano Text Resources in Chinese",
     "About": "Build a website to aggregate all Cardano resources, links, and knowledge in the Chinese language, to benefit Mandarin speakers globally.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -353,7 +353,7 @@
   },
   {
     "ID": 700101,
-    "Project Name": "Dumpling Twitter Space",
+    "ProjectName": "Dumpling Twitter Space",
     "About": "Host and join epochly Twitter spaces to give updates and analyses on Chinese community update and general community update.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -364,7 +364,7 @@
   },
   {
     "ID": 700032,
-    "Project Name": "Cardano After Dark - Hold'em poker",
+    "ProjectName": "Cardano After Dark - Hold'em poker",
     "About": "Create a decentralised poker-platform where players can play for cryptocurrencies directly from their wallets with minimum fees",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -375,7 +375,7 @@
   },
   {
     "ID": 700054,
-    "Project Name": "Cardano4Climate Community Events",
+    "ProjectName": "Cardano4Climate Community Events",
     "About": "Organize, facilitate, expand, promote, & record monthly events & weekly meetings",
     "Category": "Community",
     "PartOfACompany": "",
@@ -386,7 +386,7 @@
   },
   {
     "ID": 700055,
-    "Project Name": "Cardano4Climate Community Hub",
+    "ProjectName": "Cardano4Climate Community Hub",
     "About": "Fund for paid subscriptions & incentives\n\nRemunerate core team to grow impact of community\n\nProvide incubation fund support to C4C community",
     "Category": "Community",
     "PartOfACompany": "",
@@ -397,7 +397,7 @@
   },
   {
     "ID": 700073,
-    "Project Name": "Colombian Congress Cardano",
+    "ProjectName": "Colombian Congress Cardano",
     "About": "An informative and illustrative digital document of easy and quick understanding will be created for this target population",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -408,7 +408,7 @@
   },
   {
     "ID": 700015,
-    "Project Name": "ADA Payments for Joomla 3 & 4",
+    "ProjectName": "ADA Payments for Joomla 3 & 4",
     "About": "Create a Payment Plugin, Module & Component for Joomla 3 & 4 for 11 popular shopping carts that connects to a Cardano Wallet.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -419,7 +419,7 @@
   },
   {
     "ID": 700053,
-    "Project Name": "Cardano Worldwide Community Hubs",
+    "ProjectName": "Cardano Worldwide Community Hubs",
     "About": "We've built a \"Beta\" multilingual platform with multiple functionalities with AI & live translations to link all community hubs & Cardano.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -430,7 +430,7 @@
   },
   {
     "ID": 700059,
-    "Project Name": "Catalyst Circle - Funding Mechanism",
+    "ProjectName": "Catalyst Circle - Funding Mechanism",
     "About": "Provide the elected Catalyst Circle with a pool of funds for community-driven, solution-based implementations for community-stated problems.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -441,7 +441,7 @@
   },
   {
     "ID": 700068,
-    "Project Name": "CC Admin Team Scope Expansion",
+    "ProjectName": "CC Admin Team Scope Expansion",
     "About": "Provide remuneration for the CC Admin Team to support the functions and operations of, and transitions between the Catalyst Circle",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -452,7 +452,7 @@
   },
   {
     "ID": 700069,
-    "Project Name": "CCv3: Sustaining the Circle",
+    "ProjectName": "CCv3: Sustaining the Circle",
     "About": "Funding via Catalyst to ensure ongoing participation and to increase accountability of CC members to the community.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -463,7 +463,7 @@
   },
   {
     "ID": 700254,
-    "Project Name": "The Catalyst School | LATAM",
+    "ProjectName": "The Catalyst School | LATAM",
     "About": "The Catalyst School | LATAM will be a place to onboard local communities and enhance the impact of Catalyst in Latin America.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -474,7 +474,7 @@
   },
   {
     "ID": 700043,
-    "Project Name": "Cardano Interop NOW",
+    "ProjectName": "Cardano Interop NOW",
     "About": "FREE open-source digital wallet interoperable with Hyperledger Indy & Cardano. Without interop, there is no future for Cardano-based dig ID.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -485,7 +485,7 @@
   },
   {
     "ID": 700217,
-    "Project Name": "Proposal Framework Tool - AIM",
+    "ProjectName": "Proposal Framework Tool - AIM",
     "About": "Include an additional framework to the Proposer Tool, giving proposers a menu of goals + metrics ready for use in proposals.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -496,7 +496,7 @@
   },
   {
     "ID": 700248,
-    "Project Name": "Sustainable Hub for All Backgrounds",
+    "ProjectName": "Sustainable Hub for All Backgrounds",
     "About": "Facilitating and increasing meaningful participation from multi-language groups + stakeholders globally within and external to Cardano.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -507,7 +507,7 @@
   },
   {
     "ID": 700249,
-    "Project Name": "Sustainable LatinAmerican Use cases",
+    "ProjectName": "Sustainable LatinAmerican Use cases",
     "About": "Share stories from change agents in Latin America, engaging with Cardano in cascading disruption, creating a better tomorrow, today.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -518,7 +518,7 @@
   },
   {
     "ID": 700013,
-    "Project Name": "ADA Handle Wallet Authentication",
+    "ProjectName": "ADA Handle Wallet Authentication",
     "About": "Integrate dApp-ready wallets to our Minting Portal. This will allow us to verify users who are staked to a pool while also removing email.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -529,7 +529,7 @@
   },
   {
     "ID": 700244,
-    "Project Name": "Support small farmers in LATAM",
+    "ProjectName": "Support small farmers in LATAM",
     "About": "Build a network of small farmers who receive technical assistance, financial services, education, tech training and access to fair markets.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -540,7 +540,7 @@
   },
   {
     "ID": 700189,
-    "Project Name": "NuNet: Decentralized SPO Computing",
+    "ProjectName": "NuNet: Decentralized SPO Computing",
     "About": "NuNet will enable SPOs to run computing workflows on community provisioned hardware, increasing resilience and aiding decentralization.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -551,7 +551,7 @@
   },
   {
     "ID": 700035,
-    "Project Name": "Cardano Blockchain Lab in Kenya",
+    "ProjectName": "Cardano Blockchain Lab in Kenya",
     "About": "Add a step to the current proposal api to translate data using machine learning. Set aside a fund to incentivize human validators.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -562,7 +562,7 @@
   },
   {
     "ID": 700259,
-    "Project Name": "Translation for Proposal API DATA",
+    "ProjectName": "Translation for Proposal API DATA",
     "About": "Add a step to the current proposal api to translate data using machine learning. Set aside a fund to incentivize human validators.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -573,7 +573,7 @@
   },
   {
     "ID": 700024,
-    "Project Name": "Basic Plutus Voting dApp",
+    "ProjectName": "Basic Plutus Voting dApp",
     "About": "We plan to create an open standard for on-chain voting through a Plutus smart contract that can be used by any DAO or dApp",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -584,7 +584,7 @@
   },
   {
     "ID": 700047,
-    "Project Name": "Cardano Omnibus - UTXO Management",
+    "ProjectName": "Cardano Omnibus - UTXO Management",
     "About": "Write input selection algorithms inside the Rust SDK for Cardano so that all projects implementing Cardano have access to state-of-the-art",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -595,7 +595,7 @@
   },
   {
     "ID": 700121,
-    "Project Name": "Fractionalized NFTs v2",
+    "ProjectName": "Fractionalized NFTs v2",
     "About": "We want to publish a v2 of Fracada that is both audited and supports fractionalizing a bag of NFTs",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -606,7 +606,7 @@
   },
   {
     "ID": 700167,
-    "Project Name": "Milkomeda Accelerator",
+    "ProjectName": "Milkomeda Accelerator",
     "About": "We will use our expertise at dcSpark to run an accelerator program for projects interested in building with Milkomeda",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -617,7 +617,7 @@
   },
   {
     "ID": 700168,
-    "Project Name": "Milkomeda ADA Audit",
+    "ProjectName": "Milkomeda ADA Audit",
     "About": "Audit all components of Milkomeda that are required for the Cardano deployment",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -628,7 +628,7 @@
   },
   {
     "ID": 700169,
-    "Project Name": "Milkomeda DAO Hackathon",
+    "ProjectName": "Milkomeda DAO Hackathon",
     "About": "We will host a virtual hackathon for individuals & companies that want to start a DAO and share our knowledge about Cardano & Ethereum",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -639,7 +639,7 @@
   },
   {
     "ID": 700170,
-    "Project Name": "Milkomeda documentation(JP, KR, ZH)",
+    "ProjectName": "Milkomeda documentation(JP, KR, ZH)",
     "About": "Translate onboarding documents for users & developers to other languages",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -650,7 +650,7 @@
   },
   {
     "ID": 700171,
-    "Project Name": "Milkomeda SPO validator training",
+    "ProjectName": "Milkomeda SPO validator training",
     "About": "We plan to write documentation to help any stake pool that wants to be come a Milkomeda validator and also help validators w/ any questions",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -661,7 +661,7 @@
   },
   {
     "ID": 700176,
-    "Project Name": "Nation-ready scalability research",
+    "ProjectName": "Nation-ready scalability research",
     "About": "We will perform novel research on a scalability solution called \"naive rollups\" or sometimes called \"lazy rollups",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -672,7 +672,7 @@
   },
   {
     "ID": 700234,
-    "Project Name": "Smart contract upgradability",
+    "ProjectName": "Smart contract upgradability",
     "About": "Create a standard for upgradability of Cardano smart contracts",
     "Category": "Company",
     "PartOfACompany": "dcSpark",
@@ -683,7 +683,7 @@
   },
   {
     "ID": 700078,
-    "Project Name": "Community Web Portal in Bahasa",
+    "ProjectName": "Community Web Portal in Bahasa",
     "About": "A one-stop easy to understand everything about Cardano web portal in Bahasa Indonesia which driven by the community",
     "Category": "Community",
     "PartOfACompany": "",
@@ -694,7 +694,7 @@
   },
   {
     "ID": 700223,
-    "Project Name": "Raspberry /SPO Project",
+    "ProjectName": "Raspberry /SPO Project",
     "About": "We will develop hardware dedicated to stake pool operators that can be powered by small, eco-friendly power such as an enhanced RaspberryPi4",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -705,7 +705,7 @@
   },
   {
     "ID": 700253,
-    "Project Name": "The Cardano Carbon Footprint",
+    "ProjectName": "The Cardano Carbon Footprint",
     "About": "A Cardano greenhouse gas accounting standard verified by independent specialists, the Cardano Foundation, SPOs and delegators.",
     "Category": "Other",
     "PartOfACompany": "",
@@ -716,7 +716,7 @@
   },
   {
     "ID": 700079,
-    "Project Name": "cPAY - TrustOrder Anti SpamOrder",
+    "ProjectName": "cPAY - TrustOrder Anti SpamOrder",
     "About": "Building software of ADA payment plugin on COTI platform for online commerce payment using smart contract.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -727,7 +727,7 @@
   },
   {
     "ID": 700085,
-    "Project Name": "DAO-NET: Auditor DAO",
+    "ProjectName": "DAO-NET: Auditor DAO",
     "About": "Create a DAO, with sustained funding for auditors, to audit Project Catalyst or DAO Net funded projects as directed by the community.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -738,7 +738,7 @@
   },
   {
     "ID": 700086,
-    "Project Name": "DAO-NET: DAO Deployment Platform",
+    "ProjectName": "DAO-NET: DAO Deployment Platform",
     "About": "Create a DAO to develop a secure, open source customizable DAO solution that can be offered as a service to non-technical communities.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -749,7 +749,7 @@
   },
   {
     "ID": 700087,
-    "Project Name": "DAO-NET: Legal Defense DAO",
+    "ProjectName": "DAO-NET: Legal Defense DAO",
     "About": "Create a DAO, with sustained funding, that coordinates efforts by lawyers, accountants and lobbyists to defend against legal challenges.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -760,7 +760,7 @@
   },
   {
     "ID": 700088,
-    "Project Name": "DAO-NET: Multilingual Translation",
+    "ProjectName": "DAO-NET: Multilingual Translation",
     "About": "Create a DAO, with sustained funding for translators, to provide translations for software interfaces, documentation, meetings and videos.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -771,7 +771,7 @@
   },
   {
     "ID": 700204,
-    "Project Name": "PAB Container Log Processor",
+    "ProjectName": "PAB Container Log Processor",
     "About": "Develop a set of tools for parsing logs from the PAB so that they are queriable from the frontend to determine state following transactions.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -782,7 +782,7 @@
   },
   {
     "ID": 700089,
-    "Project Name": "Dapp for recycling value chain",
+    "ProjectName": "Dapp for recycling value chain",
     "About": "Add value to recycling supply chain by providing trail of evidence, liquidity, and a free market for tokenized used plastic bottles",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -793,7 +793,7 @@
   },
   {
     "ID": 700184,
-    "Project Name": "NFT Picture Profile AI generator",
+    "ProjectName": "NFT Picture Profile AI generator",
     "About": "An AI text-to-image generator to automatically generate NFTs from a real profile picture morphed via keywords (sad, punk, zombie, etc...)",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -804,7 +804,7 @@
   },
   {
     "ID": 700264,
-    "Project Name": "WAL-CLI Wallet-Tool for Developers",
+    "ProjectName": "WAL-CLI Wallet-Tool for Developers",
     "About": "Provide a CLI Wallet that help teams to accelerate the pace of their projects until a fully featured wallet is developed.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -815,7 +815,7 @@
   },
   {
     "ID": 700072,
-    "Project Name": "Clubs+hackathons = Cardano adoption",
+    "ProjectName": "Clubs+hackathons = Cardano adoption",
     "About": "Create a continuous relationship with local schools via clubs and prize driven hackathons to spark deep interest in the Cardano ecosystem",
     "Category": "Community",
     "PartOfACompany": "",
@@ -826,7 +826,7 @@
   },
   {
     "ID": 700097,
-    "Project Name": "Dev Journey into DID/SSI* Paradigm",
+    "ProjectName": "Dev Journey into DID/SSI* Paradigm",
     "About": "Design and implement project based dev training curriculum to allow developers to learn through creating real solutions that integrate DID.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -837,7 +837,7 @@
   },
   {
     "ID": 700100,
-    "Project Name": "Djangui: Local Savings Account Mgmt",
+    "ProjectName": "Djangui: Local Savings Account Mgmt",
     "About": "Create a decentralized platform to manage collection activities focusing on: transparency and ownership rights of collected funds.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -848,7 +848,7 @@
   },
   {
     "ID": 700231,
-    "Project Name": "Small Change Wallet",
+    "ProjectName": "Small Change Wallet",
     "About": "Create a native token and a wallet to help collect small change making sure to incorporate an exchange platform with microfinance businesses",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -859,7 +859,7 @@
   },
   {
     "ID": 700240,
-    "Project Name": "Spread Plutus through Africa",
+    "ProjectName": "Spread Plutus through Africa",
     "About": "Equip and train African developers through Wada's Cameroon hub to master smart contract implementation using Plutus.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -870,7 +870,7 @@
   },
   {
     "ID": 700017,
-    "Project Name": "After Town Hall by Catalyst Swarm",
+    "ProjectName": "After Town Hall by Catalyst Swarm",
     "About": "Organize breakout rooms after each weekly Town Hall to discuss current events. Provide space for funded and upcoming projects and ideas.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -881,7 +881,7 @@
   },
   {
     "ID": 700026,
-    "Project Name": "Bridge Builders - Governance Events",
+    "ProjectName": "Bridge Builders - Governance Events",
     "About": "Scheduling public online Events where the community, people of IOG, CF and Emurgo come together to align and discuss on Governance topics",
     "Category": "Community",
     "PartOfACompany": "",
@@ -892,7 +892,7 @@
   },
   {
     "ID": 700027,
-    "Project Name": "Bridge Builders Mentorship Program",
+    "ProjectName": "Bridge Builders Mentorship Program",
     "About": "Building a Community Team of Experts, able to offer Expertise, Guidance and Mentorship for Funded Proposers to move to the next level",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -903,7 +903,7 @@
   },
   {
     "ID": 700033,
-    "Project Name": "Cardano Ambassadors & Latin America",
+    "ProjectName": "Cardano Ambassadors & Latin America",
     "About": "Building a Team of Latin American Catalyst Community Experts & Cardano Ambassadors to provide high quality onboarding services",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -914,7 +914,7 @@
   },
   {
     "ID": 700034,
-    "Project Name": "Cardano Ambassadors Catalyst Guild",
+    "ProjectName": "Cardano Ambassadors Catalyst Guild",
     "About": "Building an Community led Team of Catalyst Experts to explore and execute initiatives between the Cardano Foundation &The Catalyst Community",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -925,7 +925,7 @@
   },
   {
     "ID": 700065,
-    "Project Name": "Catalyst Swarm Operations",
+    "ProjectName": "Catalyst Swarm Operations",
     "About": "Creation of a Catalyst Swarm Treasury to reward extraordinary and important services from the Community for the Community",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -936,7 +936,7 @@
   },
   {
     "ID": 700070,
-    "Project Name": "Challenge Fest by Catalyst Swarm",
+    "ProjectName": "Challenge Fest by Catalyst Swarm",
     "About": "The Challenge Fest offers Challenge Teams and proposers a place to build relations and connections to increase Proposal Qualities and Impact",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -947,7 +947,7 @@
   },
   {
     "ID": 700103,
-    "Project Name": "Eastern Town Hall",
+    "ProjectName": "Eastern Town Hall",
     "About": "The Eastern Town Hall offers a place to local communities, to meet and connect, we provide a fast and safe onboarding experience to them",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -958,7 +958,7 @@
   },
   {
     "ID": 700104,
-    "Project Name": "Eastern Town Hall & Japan",
+    "ProjectName": "Eastern Town Hall & Japan",
     "About": "The Eastern Town Hall creates a center of gravity for the japanese community. We provide a fast and safe \"tailor made\" onboarding structure",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -969,7 +969,7 @@
   },
   {
     "ID": 700105,
-    "Project Name": "Eastern Town Hall Language Support",
+    "ProjectName": "Eastern Town Hall Language Support",
     "About": "The Eastern Town Hall provides \"tailor made\" onboarding guidance and mentorship in multiple languages, those services need to be rewarded",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -980,7 +980,7 @@
   },
   {
     "ID": 700138,
-    "Project Name": "Idea Fest by Catalyst Swarm",
+    "ProjectName": "Idea Fest by Catalyst Swarm",
     "About": "Idea Fest provides proposers a stage to pitch their ideas and allows the voters & community to interact and discuss with them",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -991,7 +991,7 @@
   },
   {
     "ID": 700151,
-    "Project Name": "Japanese Ambassadors & Catalyst",
+    "ProjectName": "Japanese Ambassadors & Catalyst",
     "About": "Building a group of experienced Catalyst Community Members & Cardano Ambassadors providing guidance and Mentroship to the Japanese community",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -1002,7 +1002,7 @@
   },
   {
     "ID": 700158,
-    "Project Name": "LATAM Town Hall by Catalyst Swarm",
+    "ProjectName": "LATAM Town Hall by Catalyst Swarm",
     "About": "LATAM Townhall offers a place for local communities to meet and connect in their languages, providing a fast and safe onboarding experience",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -1013,7 +1013,7 @@
   },
   {
     "ID": 700159,
-    "Project Name": "Ledger Live Integration",
+    "ProjectName": "Ledger Live Integration",
     "About": "Add support for ADA and Cardano Native tokens to Ledger Live enabling ADA holders to manage their digital assets from one application.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1024,7 +1024,7 @@
   },
   {
     "ID": 700183,
-    "Project Name": "NFT Guild",
+    "ProjectName": "NFT Guild",
     "About": "Provide community events with Focus on NFT Creators and Markeplaces where ideas can find a common place to meet and to connect with Catalyst",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1035,7 +1035,7 @@
   },
   {
     "ID": 700226,
-    "Project Name": "Reward for Community Translators",
+    "ProjectName": "Reward for Community Translators",
     "About": "Build a reward mechanism to encourage the participation of community members in creating the best translations and interesting videos.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1046,7 +1046,7 @@
   },
   {
     "ID": 700040,
-    "Project Name": "Cardano games assets for Unity",
+    "ProjectName": "Cardano games assets for Unity",
     "About": "We are the creators of Blockfrost, creating services and tools lowering barriers to entry for developers.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -1057,7 +1057,7 @@
   },
   {
     "ID": 700196,
-    "Project Name": "Open Data Public Notary",
+    "ProjectName": "Open Data Public Notary",
     "About": "Denotarious.io is a solution of storing proof-of-existence timestamps, that can be used by the citizens and its government, on Cardano.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -1068,7 +1068,7 @@
   },
   {
     "ID": 700200,
-    "Project Name": "Open-sourcing Blockfrost API",
+    "ProjectName": "Open-sourcing Blockfrost API",
     "About": "We would like to, with the help of this awesome community, open-source Blockfrost backend.",
     "Category": "Company",
     "PartOfACompany": "Five Binaries",
@@ -1079,7 +1079,7 @@
   },
   {
     "ID": 700166,
-    "Project Name": "Make Atala Prism DID THE Standard",
+    "ProjectName": "Make Atala Prism DID THE Standard",
     "About": "ISDR/GL is implementing degree DIDs based on the Atala Prism Framework and recruiting partner local universities & colleges to adopt it.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1090,7 +1090,7 @@
   },
   {
     "ID": 700084,
-    "Project Name": "DAOJob: The HR Tooling for DAOs",
+    "ProjectName": "DAOJob: The HR Tooling for DAOs",
     "About": "DAOJob is a DAO-native task & job board that seamlessly integrates with Web2 distribution channels.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1101,7 +1101,7 @@
   },
   {
     "ID": 700210,
-    "Project Name": "Pathform: Custom growth paths",
+    "ProjectName": "Pathform: Custom growth paths",
     "About": "Precision Consciousness: targeted, personalized interventions; AI-guided custom growth paths & collaborative action to address global issues",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1112,7 +1112,7 @@
   },
   {
     "ID": 700025,
-    "Project Name": "Beyond ISOs: SPO-driven Funding",
+    "ProjectName": "Beyond ISOs: SPO-driven Funding",
     "About": "Stakestarter & Stakepad - new funding models native to proof-of-stake consensus - will better serve Cardano SPOs, delegators and developers.",
     "Category": "SPO",
     "PartOfACompany": "",
@@ -1123,7 +1123,7 @@
   },
   {
     "ID": 700093,
-    "Project Name": "Defending Cardano Staking Ecosystem",
+    "ProjectName": "Defending Cardano Staking Ecosystem",
     "About": "Stakeboard will foster trust in staking by disarming malicious Stakepool Operators (SPOs) and frauds posing as SPOs and Cardano projects.",
     "Category": "SPO",
     "PartOfACompany": "",
@@ -1134,7 +1134,7 @@
   },
   {
     "ID": 700242,
-    "Project Name": "Stakeboard: Social Staking Platform",
+    "ProjectName": "Stakeboard: Social Staking Platform",
     "About": "Stakeboard is a social staking marketplace designed to promote decentralization by improving key aspects of Cardano's staking landscape.",
     "Category": "SPO",
     "PartOfACompany": "",
@@ -1145,7 +1145,7 @@
   },
   {
     "ID": 700039,
-    "Project Name": "Cardano for STEM Brazilian students",
+    "ProjectName": "Cardano for STEM Brazilian students",
     "About": "It will be offered an introductory course on blockchain and Cardano technology to engineering and natural sciences students.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1156,7 +1156,7 @@
   },
   {
     "ID": 700006,
-    "Project Name": "3D Design and Print NFT Spacecoins",
+    "ProjectName": "3D Design and Print NFT Spacecoins",
     "About": "Design configurable 3D NFTs through parametric algorithms and 3D print with a build file and final report custom hash tied to the NFT.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1167,7 +1167,7 @@
   },
   {
     "ID": 700091,
-    "Project Name": "Decentralized Education - dTeach",
+    "ProjectName": "Decentralized Education - dTeach",
     "About": "A decentralized platform based on Catalyst model, where teachers actively produce their own content and bring innovation to their students",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -1178,7 +1178,7 @@
   },
   {
     "ID": 700098,
-    "Project Name": "DID Application Blueprint",
+    "ProjectName": "DID Application Blueprint",
     "About": "With this proposal we want to deep-dive and establish a solid interoperable architecture Blueprint for DApps building upon Atala PRISM DID",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1189,7 +1189,7 @@
   },
   {
     "ID": 700111,
-    "Project Name": "Establish SPO 2.0 Blueprint",
+    "ProjectName": "Establish SPO 2.0 Blueprint",
     "About": "We will proof that it is not too late to start as SPO. Considering learnings, networking and experience we will create a SPO 2.0 Blueprint",
     "Category": "SPO",
     "PartOfACompany": "",
@@ -1200,7 +1200,7 @@
   },
   {
     "ID": 700112,
-    "Project Name": "EU-Compliant DAO Blueprint",
+    "ProjectName": "EU-Compliant DAO Blueprint",
     "About": "We want to establish an adaptive and EU-regulation-compliant DAO-Blueprint for doing things right from the very beginning",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1211,7 +1211,7 @@
   },
   {
     "ID": 700113,
-    "Project Name": "Examine PoS-Advantages of Cardano",
+    "ProjectName": "Examine PoS-Advantages of Cardano",
     "About": "We want to analyse the latest PoS-related elements of the emerging EU-regulation and make sure that Cardano-specific benefits are considered",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1222,7 +1222,7 @@
   },
   {
     "ID": 700142,
-    "Project Name": "Industry Presentation Kit",
+    "ProjectName": "Industry Presentation Kit",
     "About": "We utilize the knowledge of our team for establishing a modular DLT/Blockchain presentation & training framework for industry",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1233,7 +1233,7 @@
   },
   {
     "ID": 700157,
-    "Project Name": "LATAM Industry Presentation Kit",
+    "ProjectName": "LATAM Industry Presentation Kit",
     "About": "We utilize the knowledge of our team for establishing a modular DLT/Blockchain presentation & training framework for industry",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1244,7 +1244,7 @@
   },
   {
     "ID": 700192,
-    "Project Name": "Onboard German Industry !",
+    "ProjectName": "Onboard German Industry !",
     "About": "Utilizing the manufacturing-industry competence within our team, we will perform a thorough analysis of opportunities and associated hurdles",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1255,7 +1255,7 @@
   },
   {
     "ID": 700193,
-    "Project Name": "Onboard Latin-American Industry!",
+    "ProjectName": "Onboard Latin-American Industry!",
     "About": "Utilizing the manufacturing-industry competence within our team, we will perform a thorough analysis of opportunities and associated hurdles",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1266,7 +1266,7 @@
   },
   {
     "ID": 700194,
-    "Project Name": "Onboard Manufacturing Industry !",
+    "ProjectName": "Onboard Manufacturing Industry !",
     "About": "Utilizing the manufacturing-industry competences within our team, we will perform a thorough analysis of opportunities and specific hurdles",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1277,7 +1277,7 @@
   },
   {
     "ID": 700212,
-    "Project Name": "Presenting auf Deutsch !",
+    "ProjectName": "Presenting auf Deutsch !",
     "About": "We utilize the knowledge of our team for establishing a modular DLT/Blockchain presentation & training framework for industry",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1288,7 +1288,7 @@
   },
   {
     "ID": 700258,
-    "Project Name": "Transforming Regulatory Risks",
+    "ProjectName": "Transforming Regulatory Risks",
     "About": "This proposal is about utilizing the findings of various projects by integrating all this into our DLT360 Risk & Opportunity Radar approach",
     "Category": "Company",
     "PartOfACompany": "DLT360",
@@ -1299,7 +1299,7 @@
   },
   {
     "ID": 700016,
-    "Project Name": "ADAPlus - Pool Boost",
+    "ProjectName": "ADAPlus - Pool Boost",
     "About": "Pool Boost distributes 100% of its profit to SPOs. Delegators vote for SPOs and redelegate directly once the targeted amount is reached.",
     "Category": "SPO",
     "PartOfACompany": "Adaplus",
@@ -1310,7 +1310,7 @@
   },
   {
     "ID": 700045,
-    "Project Name": "Cardano Multi-DEX SDK",
+    "ProjectName": "Cardano Multi-DEX SDK",
     "About": "Indigo Labs will develop a Typescript SDK that allows developers to interact with Cardano DEXs, and boosting the Cardano DeFi ecosystem.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1321,7 +1321,7 @@
   },
   {
     "ID": 700145,
-    "Project Name": "Innovatio Crowdfunding Launchpad",
+    "ProjectName": "Innovatio Crowdfunding Launchpad",
     "About": "Develop a crowdfunding platform that accepts funding for projects outside and inside the blockchain world.",
     "Category": "Company",
     "PartOfACompany": "innovatiofounder",
@@ -1332,7 +1332,7 @@
   },
   {
     "ID": 700178,
-    "Project Name": "New d-EdTech Platform for LatAm",
+    "ProjectName": "New d-EdTech Platform for LatAm",
     "About": "EdTech platform that incentivizes participation to promote growth in a technology oriented educational landscape, and relevant job industry.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -1343,7 +1343,7 @@
   },
   {
     "ID": 700247,
-    "Project Name": "Sustainable AI anti-fakenews system",
+    "ProjectName": "Sustainable AI anti-fakenews system",
     "About": "Port our existing ML models for fakenews detection to SingularityNET and use them with user-facing engagement frontend and DAO on Cardano.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1354,7 +1354,7 @@
   },
   {
     "ID": 700107,
-    "Project Name": "Easy Node Deployment - [Revelar]",
+    "ProjectName": "Easy Node Deployment - [Revelar]",
     "About": "Create a secure & simple node deployment with open source configurations, security practices & monitoring.",
     "Category": "Company",
     "PartOfACompany": "Revelar",
@@ -1365,7 +1365,7 @@
   },
   {
     "ID": 700124,
-    "Project Name": "Game Asset Management - [Revelar]",
+    "ProjectName": "Game Asset Management - [Revelar]",
     "About": "Create an easy web app for any project to manage their NFT Assets with a robust dashboard for multiple projects & users.",
     "Category": "Tech tools",
     "PartOfACompany": "Revelar",
@@ -1376,7 +1376,7 @@
   },
   {
     "ID": 700182,
-    "Project Name": "NFT Game Assets API - [Revelar]",
+    "ProjectName": "NFT Game Assets API - [Revelar]",
     "About": "Create an API that can take bulk art assets, by layer, and create final assets and metadata (CIP-25) ready to mint.",
     "Category": "Company",
     "PartOfACompany": "Revelar",
@@ -1387,7 +1387,7 @@
   },
   {
     "ID": 700198,
-    "Project Name": "Open Source Guide: Off-Grid Pi Node",
+    "ProjectName": "Open Source Guide: Off-Grid Pi Node",
     "About": "Create a simple website with a free and open source guide to building an off grid enclosure for a Raspberry Pi to run off of solar.",
     "Category": "SPO",
     "PartOfACompany": "Revelar",
@@ -1398,7 +1398,7 @@
   },
   {
     "ID": 700229,
-    "Project Name": "Self Governed Gaming [Revelar+Duo]",
+    "ProjectName": "Self Governed Gaming [Revelar+Duo]",
     "About": "Using Atala PRISM assets can be tied to players instead of wallets and the anonymous nature of the blockchain ecosystem is maintained.",
     "Category": "Company",
     "PartOfACompany": "Revelar",
@@ -1409,7 +1409,7 @@
   },
   {
     "ID": 700235,
-    "Project Name": "Social Mobile Game powered by CNFTs",
+    "ProjectName": "Social Mobile Game powered by CNFTs",
     "About": "Build a compelling mobile game that brings gamers to the ecosystem. Use Twitter integration for the social element and exposure.",
     "Category": "Company",
     "PartOfACompany": "Minininjaheros",
@@ -1420,7 +1420,7 @@
   },
   {
     "ID": 700261,
-    "Project Name": "University/College Outreach",
+    "ProjectName": "University/College Outreach",
     "About": "We intend to incubate interest in the blockchain by educating them with daily zooms and assisting in proposal development with the targets.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1431,7 +1431,7 @@
   },
   {
     "ID": 700214,
-    "Project Name": "Professional Accounting/Tax Advice",
+    "ProjectName": "Professional Accounting/Tax Advice",
     "About": "Offer workshops along with a tax resource to give projects the tools and advice needed to be financially aware and tax compliant",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -1442,7 +1442,7 @@
   },
   {
     "ID": 700256,
-    "Project Name": "Tokyo Cardano Summit",
+    "ProjectName": "Tokyo Cardano Summit",
     "About": "Develop and produce an online trade fair in Japanese, showcasing the coolest things Cardano has to offer, appealing to absolute beginners.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1453,7 +1453,7 @@
   },
   {
     "ID": 700009,
-    "Project Name": "Accelerating Enterprise Adoption",
+    "ProjectName": "Accelerating Enterprise Adoption",
     "About": "We will extend our Cardano plugin to enable business and citizen developers to rapidly develop and scale dapps using drag and drop features.",
     "Category": "Company",
     "PartOfACompany": "Joget",
@@ -1464,7 +1464,7 @@
   },
   {
     "ID": 700211,
-    "Project Name": "Platform for Cardano Solar Farms",
+    "ProjectName": "Platform for Cardano Solar Farms",
     "About": "Create a Platform allowing investors participate in the project through GREEN token (represents X watts of energy) on Cardano Network",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -1475,7 +1475,7 @@
   },
   {
     "ID": 700044,
-    "Project Name": "Cardano Mobile Hubs",
+    "ProjectName": "Cardano Mobile Hubs",
     "About": "Create a minimum-viable prototype for a mobile hub, one that could be stationed in regions with the highest demand but lack infrastructure.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1486,7 +1486,7 @@
   },
   {
     "ID": 700066,
-    "Project Name": "Catalyst Treasury Management",
+    "ProjectName": "Catalyst Treasury Management",
     "About": "A simple, easy-to-use dashboard for funded proposals to track monthly disbursements from Catalyst, as well as expenses and wallet balances.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -1497,7 +1497,7 @@
   },
   {
     "ID": 700181,
-    "Project Name": "NFT for food value chain resilience",
+    "ProjectName": "NFT for food value chain resilience",
     "About": "We build a verified food information&certification system with NFTs hold by smallholders farmers that reward sustainable practice using ADA.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -1508,7 +1508,7 @@
   },
   {
     "ID": 700177,
-    "Project Name": "Networking/Education LATAM",
+    "ProjectName": "Networking/Education LATAM",
     "About": "University Networking Events/ Blockchain Educational Programs/ Blockchain internships in Asuncion, Paraguay/Cuenca, Ecuador.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1519,7 +1519,7 @@
   },
   {
     "ID": 700038,
-    "Project Name": "Cardano Center Poland web & socials",
+    "ProjectName": "Cardano Center Poland web & socials",
     "About": "We want to build a Polish Cardano Center where people find valuable data, learn about Cardano's possibilities and exchange their ideas",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1530,7 +1530,7 @@
   },
   {
     "ID": 700022,
-    "Project Name": "Atala Japanese Translation ＆ CNFT",
+    "ProjectName": "Atala Japanese Translation ＆ CNFT",
     "About": "Create Japanese translated versions of AtalaPrism and DID related materials, including localized ATALA Prism Pioneers Program documentation",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1541,7 +1541,7 @@
   },
   {
     "ID": 700197,
-    "Project Name": "Open Source Credential Wallet",
+    "ProjectName": "Open Source Credential Wallet",
     "About": "We will build an Open Source identity wallet that operates with Atala Prism Decentralized IDs and Verifiable Credentials.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1552,7 +1552,7 @@
   },
   {
     "ID": 700238,
-    "Project Name": "SPO Performance Monitoring Service",
+    "ProjectName": "SPO Performance Monitoring Service",
     "About": "Providing a professional Performance Monitoring solution to help SPOs and Delegators oversight and insights of Pools performance in realtime",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1563,7 +1563,7 @@
   },
   {
     "ID": 700080,
-    "Project Name": "Create Teaming Agreement Templates",
+    "ProjectName": "Create Teaming Agreement Templates",
     "About": "Create template(s) suitable to serve as teaming agreements tailored to Catalyst funded proposals.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -1574,7 +1574,7 @@
   },
   {
     "ID": 700260,
-    "Project Name": "Universal Tourism Payment System",
+    "ProjectName": "Universal Tourism Payment System",
     "About": "ADA-Based Payment Dapp - Bring-Keep-Track tourist spending onshore. Grant Visit Visas w requirement to use Govt cashless VAT payment scheme.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -1585,7 +1585,7 @@
   },
   {
     "ID": 700031,
-    "Project Name": "CardaBot: telegram bot with tipping",
+    "ProjectName": "CardaBot: telegram bot with tipping",
     "About": "A tipping feature for CardaBot, allowing Telegram users to execute ada transactions directly by the bot in a non-custodial approach.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1596,7 +1596,7 @@
   },
   {
     "ID": 700056,
-    "Project Name": "CardanoRio 2022: Hybrid event",
+    "ProjectName": "CardanoRio 2022: Hybrid event",
     "About": "A hybrid event to promote and discuss Brazilian projects related to Cardano and connect the community in Brazil.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1607,7 +1607,7 @@
   },
   {
     "ID": 700149,
-    "Project Name": "Introductory Blockchain MOOC PT-BR",
+    "ProjectName": "Introductory Blockchain MOOC PT-BR",
     "About": "A comprehensive PT-BR introduction to blockchain and Cardano MOOC explaining their main technological and social aspects, available for free",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1618,7 +1618,7 @@
   },
   {
     "ID": 700185,
-    "Project Name": "No code, audited Smart Contracts",
+    "ProjectName": "No code, audited Smart Contracts",
     "About": "We have created a no code solution that enables users to create, manage, and execute smart contracts.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1629,7 +1629,7 @@
   },
   {
     "ID": 700077,
-    "Project Name": "Community Tools On Chain! - AIM",
+    "ProjectName": "Community Tools On Chain! - AIM",
     "About": "Undertake research to define a protocol to submit assessments and reviews directly on-chain and build a POC integrating it with CA/vCA tools",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -1640,7 +1640,7 @@
   },
   {
     "ID": 700251,
-    "Project Name": "Tales In The Blocks|Collab-writing",
+    "ProjectName": "Tales In The Blocks|Collab-writing",
     "About": "Build a platform to create a gamified experience to write and illustrate game-book tales in a collaborative way using the blockchain.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -1651,7 +1651,7 @@
   },
   {
     "ID": 700195,
-    "Project Name": "On-Chain Data Analytics",
+    "ProjectName": "On-Chain Data Analytics",
     "About": "Develop on-chain data analytical lab with high density and quality data, model validation and experimentation tools.",
     "Category": "Company",
     "PartOfACompany": "Maladex",
@@ -1662,7 +1662,7 @@
   },
   {
     "ID": 700236,
-    "Project Name": "SOIL: BITs",
+    "ProjectName": "SOIL: BITs",
     "About": "Provide a free entry point to the Cardano ecosystem through the SOIL platform.\nFreemium dapps and basic income for everyone!",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1673,7 +1673,7 @@
   },
   {
     "ID": 700019,
-    "Project Name": "ALDEA NFT - Community Marketplace",
+    "ProjectName": "ALDEA NFT - Community Marketplace",
     "About": "ALDEA NFT Marketplace is the first use case of providing a service to the community while attempting to achieve self-sustainability.",
     "Category": "Company",
     "PartOfACompany": "Aldea NFT",
@@ -1684,7 +1684,7 @@
   },
   {
     "ID": 700132,
-    "Project Name": "Grow ALDEA, Grow Latin America",
+    "ProjectName": "Grow ALDEA, Grow Latin America",
     "About": "With an aggressive comm. plan to reach out using media platforms, ALDEA will bring key players to the ecosystem and be ready for the future!",
     "Category": "Company",
     "PartOfACompany": "Aldea NFT",
@@ -1695,7 +1695,7 @@
   },
   {
     "ID": 700020,
-    "Project Name": "An AI Domain Specific Language",
+    "ProjectName": "An AI Domain Specific Language",
     "About": "Create an AI-DSL to automatically discover and connect available marketplace AI services to solve given real-world problems.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1706,7 +1706,7 @@
   },
   {
     "ID": 700057,
-    "Project Name": "Case Study: Yomi.ai & Ada Pay",
+    "ProjectName": "Case Study: Yomi.ai & Ada Pay",
     "About": "A case study that illustrates the migration of a small business from accepting fiat to ADA.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -1717,7 +1717,7 @@
   },
   {
     "ID": 700135,
-    "Project Name": "Haskell & Coffee ☕",
+    "ProjectName": "Haskell & Coffee ☕",
     "About": "A weekly caffeine-infused hangout to tackle code problems with Haskell in a fun and welcoming virtual environment.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1728,7 +1728,7 @@
   },
   {
     "ID": 700164,
-    "Project Name": "Loxe Inc. Plutus Internship Program",
+    "ProjectName": "Loxe Inc. Plutus Internship Program",
     "About": "Provide new Plutus developers with mentorship and real world working experience.",
     "Category": "Company",
     "PartOfACompany": "Luxe",
@@ -1739,7 +1739,7 @@
   },
   {
     "ID": 700225,
-    "Project Name": "Revenue Share Token Smart Contract",
+    "ProjectName": "Revenue Share Token Smart Contract",
     "About": "To build an open source smart contract for revenue sharing for Cardano DApps.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1750,7 +1750,7 @@
   },
   {
     "ID": 700266,
-    "Project Name": "Win-Win Expansion in Latam",
+    "ProjectName": "Win-Win Expansion in Latam",
     "About": "Outreach universities, legal bodies and local governments in Latam to expand and localize Win-Win services.",
     "Category": "Company",
     "PartOfACompany": "Luxe",
@@ -1761,7 +1761,7 @@
   },
   {
     "ID": 700076,
-    "Project Name": "Community Pharmacy System",
+    "ProjectName": "Community Pharmacy System",
     "About": "We will provide: (a) Pharmacy Information System & (b) Inventory System that government & private providers can use for better management.",
     "Category": "Company",
     "PartOfACompany": "Parmazip",
@@ -1772,7 +1772,7 @@
   },
   {
     "ID": 700136,
-    "Project Name": "Health DAO",
+    "ProjectName": "Health DAO",
     "About": "Our Healthcare APIs can complement the power of Atala PRISM so that more healthcare providers can easily onboard.",
     "Category": "Idea - company",
     "PartOfACompany": "Hippocrades",
@@ -1783,7 +1783,7 @@
   },
   {
     "ID": 700262,
-    "Project Name": "Vaccine Management Platform + APIs",
+    "ProjectName": "Vaccine Management Platform + APIs",
     "About": "Our health solutions will provide: (a) Vaccine Information System for Doctors, (b) Vaccine Verification Platform, (c)APIs for Devs",
     "Category": "Idea - company",
     "PartOfACompany": "Vaxert",
@@ -1794,7 +1794,7 @@
   },
   {
     "ID": 700021,
-    "Project Name": "Anonymity & data control online ZKT",
+    "ProjectName": "Anonymity & data control online ZKT",
     "About": "Tmr, use our consent-based data (D)app, control who can access your data & get compensated for your attention in zero knowledge token (ZKT)",
     "Category": "Company",
     "PartOfACompany": "Profila",
@@ -1805,7 +1805,7 @@
   },
   {
     "ID": 700037,
-    "Project Name": "Cardano Catalyst TV",
+    "ProjectName": "Cardano Catalyst TV",
     "About": "A 3-5 minute conversation with Cardano Catalyst TV is the fastest means to approach viewers to give general insights and increase reputation",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -1816,7 +1816,7 @@
   },
   {
     "ID": 700029,
-    "Project Name": "Build out 14 Digital Language Hubs",
+    "ProjectName": "Build out 14 Digital Language Hubs",
     "About": "Leverage existing projects to create 14 digital hubs and provide some assisting resources for materials and people in precarious situations.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -1827,7 +1827,7 @@
   },
   {
     "ID": 700008,
-    "Project Name": "A portal to audit and release funds",
+    "ProjectName": "A portal to audit and release funds",
     "About": "Proposal is split into work blocks with req. ADA, once finished community/smart contract confirms if next funding is unlocked.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1838,7 +1838,7 @@
   },
   {
     "ID": 700173,
-    "Project Name": "MLabs DDAO",
+    "ProjectName": "MLabs DDAO",
     "About": "MLabs will implement a governance protocol that is configurable and modular. Our protocol can be deployed to create a DAO for communities.",
     "Category": "Company",
     "PartOfACompany": "Mlabs",
@@ -1849,7 +1849,7 @@
   },
   {
     "ID": 700174,
-    "Project Name": "MLabs DTF (Dao-Traded-Fund)",
+    "ProjectName": "MLabs DTF (Dao-Traded-Fund)",
     "About": "MLabs DTF - ETFs create pools of assets that help to mitigate some of the risks associated with cryptocurrency investing.",
     "Category": "Company",
     "PartOfACompany": "Mlabs",
@@ -1860,7 +1860,7 @@
   },
   {
     "ID": 700269,
-    "Project Name": "ስለ ካርዳኖ - CARDANO AMHARIC PODCAST",
+    "ProjectName": "ስለ ካርዳኖ - CARDANO AMHARIC PODCAST",
     "About": "We create Amharic audio content for the people in Ethiopia, explaining Cardano blockchain",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1871,7 +1871,7 @@
   },
   {
     "ID": 700109,
-    "Project Name": "Endubis Messenger Wallet",
+    "ProjectName": "Endubis Messenger Wallet",
     "About": "An in-message wallet integration for easy payments, storage, and transfer of ADA amongst friends. something like We-chat but even simpler.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1882,7 +1882,7 @@
   },
   {
     "ID": 700049,
-    "Project Name": "Cardano Subnet/VM Avalanche Bridge",
+    "ProjectName": "Cardano Subnet/VM Avalanche Bridge",
     "About": "Architect and build a Cardano Subnet/VM on Avalanche enabling DeFi bridges between the Cardano network and the Cardano Subnet on Avalanche.",
     "Category": "Company",
     "PartOfACompany": "NFTDAO",
@@ -1893,7 +1893,7 @@
   },
   {
     "ID": 700082,
-    "Project Name": "DAO Decentralized Communication",
+    "ProjectName": "DAO Decentralized Communication",
     "About": "Architect a robust and easy-to-deploy decentralized comm/collab platform to comprise key decisions on governance, treasury, & participation.",
     "Category": "Company",
     "PartOfACompany": "NFTDAO",
@@ -1904,7 +1904,7 @@
   },
   {
     "ID": 700186,
-    "Project Name": "No-Code SSI SaaS for mass adoption",
+    "ProjectName": "No-Code SSI SaaS for mass adoption",
     "About": "Add support of Atala PRISM to our proven no-code SSI SaaS platform to easily build, deploy & use credentials in goal-oriented interactions.",
     "Category": "Company",
     "PartOfACompany": "proofspace",
@@ -1915,7 +1915,7 @@
   },
   {
     "ID": 700163,
-    "Project Name": "Lost |&| Found",
+    "ProjectName": "Lost |&| Found",
     "About": "Build a decentralized system that connects lost items to owners integrating DID and a digital wallet as parts of the supporting sub system.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -1926,7 +1926,7 @@
   },
   {
     "ID": 700239,
-    "Project Name": "SPOs Supporting Community Projects",
+    "ProjectName": "SPOs Supporting Community Projects",
     "About": "Create a registry of interested SPOs, match them to community projects, and set up standards for reward allocation, security, and reporting.",
     "Category": "SPO",
     "PartOfACompany": "",
@@ -1937,7 +1937,7 @@
   },
   {
     "ID": 700161,
-    "Project Name": "Localize Yoroi for Vietnam market",
+    "ProjectName": "Localize Yoroi for Vietnam market",
     "About": "Translate all text in Yoroi into Vietnamese and provide a file Yoroi developers need to localize Yoroi into the Vietnamese language.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -1948,7 +1948,7 @@
   },
   {
     "ID": 700162,
-    "Project Name": "Lokole Education Centre in DR Congo",
+    "ProjectName": "Lokole Education Centre in DR Congo",
     "About": "We have built an off/online portable web and email network called \"Lokole\" to help establish a truly African  network for digital education.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1959,7 +1959,7 @@
   },
   {
     "ID": 700094,
-    "Project Name": "DeFi Crowd Lending & Savings",
+    "ProjectName": "DeFi Crowd Lending & Savings",
     "About": "A DeFi Wallet that offers savings assistant & crowd-lending(Ajo) to obtain credits via stable currency based assets while keeping capital.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1970,7 +1970,7 @@
   },
   {
     "ID": 700257,
-    "Project Name": "Transaction Editor & wallet",
+    "ProjectName": "Transaction Editor & wallet",
     "About": "A high level, declarative, transaction editor that fully integrates with your wallet, cardano-node and your text editor.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1981,7 +1981,7 @@
   },
   {
     "ID": 700265,
-    "Project Name": "Web based transaction editor",
+    "ProjectName": "Web based transaction editor",
     "About": "A web-based transaction editor, a service that lets you craft your token mint transactions in a guided UX",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -1992,7 +1992,7 @@
   },
   {
     "ID": 700188,
-    "Project Name": "Northeast Argentinian Community",
+    "ProjectName": "Northeast Argentinian Community",
     "About": "Founding a community for the dissemination and promotion of blockchain technology with Cardano in the Northeast region of Argentina.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2003,7 +2003,7 @@
   },
   {
     "ID": 700206,
-    "Project Name": "PACE: Community credentials 2",
+    "ProjectName": "PACE: Community credentials 2",
     "About": "Community project based learning exercises for a bottoms up approach to implementing, learning about and using verifiable credentials",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2014,7 +2014,7 @@
   },
   {
     "ID": 700207,
-    "Project Name": "PACE: Skills credentials",
+    "ProjectName": "PACE: Skills credentials",
     "About": "Integrate LearnerShape's skills authentication solution to help the community build reputation using Atala PRISM",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2025,7 +2025,7 @@
   },
   {
     "ID": 700215,
-    "Project Name": "Progress and KPI reporting tool",
+    "ProjectName": "Progress and KPI reporting tool",
     "About": "Create a reporting tool for progress and KPI reports that can be used as an alternative reporting process with full open access data",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2036,7 +2036,7 @@
   },
   {
     "ID": 700116,
-    "Project Name": "Factpage: Cardano fact check site",
+    "ProjectName": "Factpage: Cardano fact check site",
     "About": "Archive media about Cardano using the verifiable audit trails implemented in the Orcfax oracle project and publish an explorer at fact.page",
     "Category": "Idea - company",
     "PartOfACompany": "Factpage",
@@ -2047,7 +2047,7 @@
   },
   {
     "ID": 700156,
-    "Project Name": "Landano: Cardano land registry Dapp",
+    "ProjectName": "Landano: Cardano land registry Dapp",
     "About": "Landano registers land titles via a Dapp and a tokenized cadastre map. Transactions are made legally-binding by local legal professionals.",
     "Category": "Idea - company",
     "PartOfACompany": "Landano",
@@ -2058,7 +2058,7 @@
   },
   {
     "ID": 700092,
-    "Project Name": "DeepchainAda: Trustless AI training",
+    "ProjectName": "DeepchainAda: Trustless AI training",
     "About": "Utilize Cardano smart contracts, SingularityNet and the DeepchainAda project to guarantee Privacy & Auditability in ML training",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2069,7 +2069,7 @@
   },
   {
     "ID": 700153,
-    "Project Name": "Japanese Voter Survey - AIM",
+    "ProjectName": "Japanese Voter Survey - AIM",
     "About": "Create an incentivized survey in Japanese to obtain information about voters & allow this info to support future Catalyst improvements.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2080,7 +2080,7 @@
   },
   {
     "ID": 700237,
-    "Project Name": "Spanish/Portuguese Voter Survey-AIM",
+    "ProjectName": "Spanish/Portuguese Voter Survey-AIM",
     "About": "Create an incentivized survey in Spanish and Portuguese to obtain information & allow this info to support future Catalyst improvements.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2091,7 +2091,7 @@
   },
   {
     "ID": 700155,
-    "Project Name": "Konma Labz",
+    "ProjectName": "Konma Labz",
     "About": "Create & deploy Konma Labz, consisting of Haskell/Plutus developers to further help businesses develop DeFi projects on the Cardano chain.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2102,7 +2102,7 @@
   },
   {
     "ID": 700007,
-    "Project Name": "A Community Vesting Dapp",
+    "ProjectName": "A Community Vesting Dapp",
     "About": "My solution is combining pioneer vesting with on-chain voting, allowing users to vote on any vesting parameters while in a vesting contract.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2113,7 +2113,7 @@
   },
   {
     "ID": 700160,
-    "Project Name": "Liquidity Aggregator for Cardano",
+    "ProjectName": "Liquidity Aggregator for Cardano",
     "About": "Smartdex aggregates liquidity across DEXs to offer users efficient transactions along with an off-chain trading onchain settlement solution.",
     "Category": "Company",
     "PartOfACompany": "Autonio foundation",
@@ -2124,7 +2124,7 @@
   },
   {
     "ID": 700154,
-    "Project Name": "JP-Regional Revitalization Project",
+    "ProjectName": "JP-Regional Revitalization Project",
     "About": "We will make acceptance of Cardano based BC technology for local area citizens and government in Japan, which willl extend the ADA use case.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2135,7 +2135,7 @@
   },
   {
     "ID": 700191,
-    "Project Name": "On line local Area shopping by ADA",
+    "ProjectName": "On line local Area shopping by ADA",
     "About": "The special discount on internet shopping by ADA supported by Catalyst will promote ADA holder shopping and active local area economy.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2146,7 +2146,7 @@
   },
   {
     "ID": 700205,
-    "Project Name": "PAB promotion in Japan",
+    "ProjectName": "PAB promotion in Japan",
     "About": "We will provide the guide book (or Website) for Plutus Application Background in Japanese. This will be interested Japanese Engineers.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2157,7 +2157,7 @@
   },
   {
     "ID": 700213,
-    "Project Name": "Product Exhibition from Shikoku",
+    "ProjectName": "Product Exhibition from Shikoku",
     "About": "The discount price produced by Catalyst supporting make ADA use case, new appeal method and out reach effect for new potential ADA holders.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2168,7 +2168,7 @@
   },
   {
     "ID": 700123,
-    "Project Name": "Fund7Proposals + SDGs - Cardano AIM",
+    "ProjectName": "Fund7Proposals + SDGs - Cardano AIM",
     "About": "Analyse Fund 7 funded proposals for SDGs connections. Present data + info in an open access database. Share with media + potential partners.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -2179,7 +2179,7 @@
   },
   {
     "ID": 700141,
-    "Project Name": "Impact Measurements Tool - research",
+    "ProjectName": "Impact Measurements Tool - research",
     "About": "Researching the basis of an Impact Measurements Tool to help define KPIs, measure and report them, with a focus on SDGs impact.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -2190,7 +2190,7 @@
   },
   {
     "ID": 700246,
-    "Project Name": "Sustainability Hub for Japan",
+    "ProjectName": "Sustainability Hub for Japan",
     "About": "Facilitating the sharing of sustainable projects + stories from the Japanese community and diaspora, within + external to Cardano.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2201,7 +2201,7 @@
   },
   {
     "ID": 700250,
-    "Project Name": "SustainableADA Goals Token Research",
+    "ProjectName": "SustainableADA Goals Token Research",
     "About": "Researching the basis of creating a platform + token for impact investing, directly connecting you to SDGs projects you're passionate about.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2212,7 +2212,7 @@
   },
   {
     "ID": 700130,
-    "Project Name": "Gamify LacedWhales Twitter bot",
+    "ProjectName": "Gamify LacedWhales Twitter bot",
     "About": "GameChanger wallet allows interacting with Cardano via HTTP links, we propose to gamify this bot using it to try to go viral on Twitter.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2223,7 +2223,7 @@
   },
   {
     "ID": 700133,
-    "Project Name": "Grow Dandelion, Grow SPO businesses",
+    "ProjectName": "Grow Dandelion, Grow SPO businesses",
     "About": "We propose to keep our community service, which will provide SPOs with an option to be rewarded and to bootstrap new API hosting businesses.",
     "Category": "SPO",
     "PartOfACompany": "",
@@ -2234,7 +2234,7 @@
   },
   {
     "ID": 700036,
-    "Project Name": "Cardano Builders' Hub India",
+    "ProjectName": "Cardano Builders' Hub India",
     "About": "Create a hub for software engineers in India to get together, ideate, incubate and develop on Cardano.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2245,7 +2245,7 @@
   },
   {
     "ID": 700081,
-    "Project Name": "Crypto regulations in India",
+    "ProjectName": "Crypto regulations in India",
     "About": "Sensitise the stakeholders that Cardano is safe platform, that it works with nation states and that it can create jobs in the IT sector.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2256,7 +2256,7 @@
   },
   {
     "ID": 700115,
-    "Project Name": "Fact Check for Cardano",
+    "ProjectName": "Fact Check for Cardano",
     "About": "It is hard to distill through the disinformation related to Cardano and there isn't an easy way to do fact check.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2267,7 +2267,7 @@
   },
   {
     "ID": 700165,
-    "Project Name": "Loyalty Tokens for Businesses",
+    "ProjectName": "Loyalty Tokens for Businesses",
     "About": "A platform for Businesses to mint and issue loyalty tokens to their clients.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2278,7 +2278,7 @@
   },
   {
     "ID": 700180,
-    "Project Name": "NFT Based Authentication",
+    "ProjectName": "NFT Based Authentication",
     "About": "Develop and maintain an open source repository demonstrating how NFTs can be used to achieve OAuth 2.0 type authentication.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2289,7 +2289,7 @@
   },
   {
     "ID": 700267,
-    "Project Name": "Win-Win Prism DID Integration",
+    "ProjectName": "Win-Win Prism DID Integration",
     "About": "Win-Win, a new alternate dispute resolution marketplace powered by Cardano, needs a mechanism to trustfully connect mediators with clients.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2300,7 +2300,7 @@
   },
   {
     "ID": 700119,
-    "Project Name": "Flutter SDK",
+    "ProjectName": "Flutter SDK",
     "About": "Finish the open-source Flutter SDK from Fund 5 to deliver a production ready Cardano on-ramp for Flutter mobile, web and desktop developers.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2311,7 +2311,7 @@
   },
   {
     "ID": 700122,
-    "Project Name": "Free Oracle Community Price Feeds",
+    "ProjectName": "Free Oracle Community Price Feeds",
     "About": "Charli3 will provide price feeds, subsidised by this funding, for self-service access by the community.",
     "Category": "Company",
     "PartOfACompany": "Charli3",
@@ -2322,7 +2322,7 @@
   },
   {
     "ID": 700083,
-    "Project Name": "DAO Treasury Building Blocks",
+    "ProjectName": "DAO Treasury Building Blocks",
     "About": "A reusable module and SDK for bonding curves enable DApp developers to implement DAO treasury management and fair disbursements.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2333,7 +2333,7 @@
   },
   {
     "ID": 700096,
-    "Project Name": "DeFi+Catalyst🔥 Retroactive Finance",
+    "ProjectName": "DeFi+Catalyst🔥 Retroactive Finance",
     "About": "Conduct user research with behavioural data to design and prototype a mobile app that turns people into impact investors.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2344,7 +2344,7 @@
   },
   {
     "ID": 700224,
-    "Project Name": "Retroactive Financing Experiment",
+    "ProjectName": "Retroactive Financing Experiment",
     "About": "Conduct experiments with conditional financing mechanisms to help explore and understand rapid funding options.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2355,7 +2355,7 @@
   },
   {
     "ID": 700137,
-    "Project Name": "Hyperledger-Prism Interoperability",
+    "ProjectName": "Hyperledger-Prism Interoperability",
     "About": "Providing Atala Prism with two interoperability layers with Hyperledger Aries: DIDComm communication protocol and credential mapping.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2366,7 +2366,7 @@
   },
   {
     "ID": 700147,
-    "Project Name": "Interoperability within Atala Prism",
+    "ProjectName": "Interoperability within Atala Prism",
     "About": "Provide a WIKI like documentation with standardized credential models that can be augmented by Atala Prism community",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2377,7 +2377,7 @@
   },
   {
     "ID": 700190,
-    "Project Name": "Odoo plugin",
+    "ProjectName": "Odoo plugin",
     "About": "Develop a plugin that connects Odoo with ADA Pay",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -2388,7 +2388,7 @@
   },
   {
     "ID": 700018,
-    "Project Name": "AI Resolution of Smart Contracts",
+    "ProjectName": "AI Resolution of Smart Contracts",
     "About": "Use AI (particularly ML) to evolve models for oracle data selection and verification with timely resolution and correctness incentives.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2399,7 +2399,7 @@
   },
   {
     "ID": 700233,
-    "Project Name": "smart contract tutoring",
+    "ProjectName": "smart contract tutoring",
     "About": "Smart contract tutoring reduces costs and unlocks the global market, increasing opportunities for students and tutors alike.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2410,7 +2410,7 @@
   },
   {
     "ID": 700042,
-    "Project Name": "Cardano in Spanish",
+    "ProjectName": "Cardano in Spanish",
     "About": "Provide translated videos in Spanish educating and keeping Hispanic community informed about the Cardano Project",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2421,7 +2421,7 @@
   },
   {
     "ID": 700110,
-    "Project Name": "Enhance Automated Self Reporting",
+    "ProjectName": "Enhance Automated Self Reporting",
     "About": "A contribution survey automatically generated and populated with the contributions done in all Git repositories & time tracked in clockify.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2432,7 +2432,7 @@
   },
   {
     "ID": 700010,
-    "Project Name": "Acceleration Program in Africa",
+    "ProjectName": "Acceleration Program in Africa",
     "About": "Run an acceleration program by Seedstars for selected funded projects in Africa.",
     "Category": "Company",
     "PartOfACompany": "Seedstars",
@@ -2443,7 +2443,7 @@
   },
   {
     "ID": 700011,
-    "Project Name": "Accelerator in Emerging Markets",
+    "ProjectName": "Accelerator in Emerging Markets",
     "About": "Run an acceleration program by Seedstars for selected funded projects globally.",
     "Category": "Company",
     "PartOfACompany": "Seedstars",
@@ -2454,7 +2454,7 @@
   },
   {
     "ID": 700118,
-    "Project Name": "FinancialTimes Startup Competition",
+    "ProjectName": "FinancialTimes Startup Competition",
     "About": "Create a global startup competition for funded projects to gain visibility and meet mentors and investors while receiving financial support.",
     "Category": "Company",
     "PartOfACompany": "Seedstars",
@@ -2465,7 +2465,7 @@
   },
   {
     "ID": 700048,
-    "Project Name": "CARDANO SCAMWATCH TASK FORCE",
+    "ProjectName": "CARDANO SCAMWATCH TASK FORCE",
     "About": "Implement a discord support network and a data mining script to identify bots on twitter, and thus coordinate anti-defamation campaigns.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2476,7 +2476,7 @@
   },
   {
     "ID": 700071,
-    "Project Name": "Children write African stories",
+    "ProjectName": "Children write African stories",
     "About": "Give children an opportunity to use digital tools to write, their own stories in their own languages on an open sourced digital library",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2487,7 +2487,7 @@
   },
   {
     "ID": 700114,
-    "Project Name": "Exhibit Largest BlockChainEXPO(JP)",
+    "ProjectName": "Exhibit Largest BlockChainEXPO(JP)",
     "About": "We will exhibit at the B.C. EXPO, largest business events in JP, and introduce Cardano to Japanese Fortune 500 and public organizations.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2498,7 +2498,7 @@
   },
   {
     "ID": 700201,
-    "Project Name": "Oxford student hub",
+    "ProjectName": "Oxford student hub",
     "About": "Start a student hub based at the University of Oxford to attract young programmers to choose to learn Haskell and Plutus.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2509,7 +2509,7 @@
   },
   {
     "ID": 700222,
-    "Project Name": "Rarety - SC based NFT drop platform",
+    "ProjectName": "Rarety - SC based NFT drop platform",
     "About": "We are developing a smart contract based CNFT drop platform that also supports trading along with royalties to support artists.",
     "Category": "Business Tools",
     "PartOfACompany": "",
@@ -2520,7 +2520,7 @@
   },
   {
     "ID": 700074,
-    "Project Name": "Community Consultancy: Tokenomics",
+    "ProjectName": "Community Consultancy: Tokenomics",
     "About": "Assist existing projects to help formalize & model their solutions. Share these results with the broader community as examples",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2531,7 +2531,7 @@
   },
   {
     "ID": 700179,
-    "Project Name": "Newcomer Resources en Español",
+    "ProjectName": "Newcomer Resources en Español",
     "About": "Library of original educational articles and news in Spanish, to include Cardano basics, current events, and insights for newcomers.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2542,7 +2542,7 @@
   },
   {
     "ID": 700058,
-    "Project Name": "Catalyst Audit Circle",
+    "ProjectName": "Catalyst Audit Circle",
     "About": "Establish a Catalyst auditing circle to guide improvements needed to maximise each funding rounds return on intention.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2553,7 +2553,7 @@
   },
   {
     "ID": 700064,
-    "Project Name": "Catalyst Swarm 2022 GitBook",
+    "ProjectName": "Catalyst Swarm 2022 GitBook",
     "About": "Resource the documentation & tracking of Project Catalyst. Communicate the content of the Catalyst 2022 GitBook to the community.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2564,7 +2564,7 @@
   },
   {
     "ID": 700067,
-    "Project Name": "Catalyst-Coordinator Hub",
+    "ProjectName": "Catalyst-Coordinator Hub",
     "About": "Implement a collaborative layer, a community hub, to welcome funded proposers to Catalyst and provide support.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2575,7 +2575,7 @@
   },
   {
     "ID": 700075,
-    "Project Name": "Community Governance Oversight",
+    "ProjectName": "Community Governance Oversight",
     "About": "Survey, report & facilitate retrospectives to improve our governance processes.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2586,7 +2586,7 @@
   },
   {
     "ID": 700108,
-    "Project Name": "Ekphrasis Gitbook",
+    "ProjectName": "Ekphrasis Gitbook",
     "About": "Resource the documentation of philosophical debate and discussion around Cardano.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2597,7 +2597,7 @@
   },
   {
     "ID": 700172,
-    "Project Name": "Mini Proposal Workshops",
+    "ProjectName": "Mini Proposal Workshops",
     "About": "Workshops that help entrepreneurs to create a proposal and effectively communicate with voters",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2608,7 +2608,7 @@
   },
   {
     "ID": 700146,
-    "Project Name": "Insight Sharing Workshops - TCS",
+    "ProjectName": "Insight Sharing Workshops - TCS",
     "About": "Host challenge-specific workshops with domain experts and in collaboration with Challenge Team during the Insight Sharing stage.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2619,7 +2619,7 @@
   },
   {
     "ID": 700187,
-    "Project Name": "NOETH: Cardano for science in LATAM",
+    "ProjectName": "NOETH: Cardano for science in LATAM",
     "About": "We propose a protocol that incentivizes PC users to lend their idle processing power in exchange for a reward, the NOETH token.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2630,7 +2630,7 @@
   },
   {
     "ID": 700030,
-    "Project Name": "Carbon as DeFi Asset | BlockCarbon",
+    "ProjectName": "Carbon as DeFi Asset | BlockCarbon",
     "About": "BlockCarbon - Foundation and Open Source library to enable pricing and exchange of Carbon as tokens and derivatives utilizing Plutus.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2641,7 +2641,7 @@
   },
   {
     "ID": 700050,
-    "Project Name": "Cardano Technical hub in Vietnamese",
+    "ProjectName": "Cardano Technical hub in Vietnamese",
     "About": "Bring a unique portal to Vietnam Community where they can find all technical information to get started with Cardano",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2652,7 +2652,7 @@
   },
   {
     "ID": 700062,
-    "Project Name": "Catalyst Events 4 Vietnam Students",
+    "ProjectName": "Catalyst Events 4 Vietnam Students",
     "About": "Organize virtual or onsite sharing events about Catalyst for students. Connect, motivate and support students to participate in Catalyst.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2663,7 +2663,7 @@
   },
   {
     "ID": 700117,
-    "Project Name": "Fair Supply Chain in Ghana",
+    "ProjectName": "Fair Supply Chain in Ghana",
     "About": "Implement democratic governance models for managing trade documents such as Certificate of Origin, Certificate of Analysis, etc.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2674,7 +2674,7 @@
   },
   {
     "ID": 700209,
-    "Project Name": "Paperless Cross-Border Trade",
+    "ProjectName": "Paperless Cross-Border Trade",
     "About": "Moving the TradeTrust interoperability framework to Cardano to facilitate low cost trusted interoperability of electronic trade documents.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2685,7 +2685,7 @@
   },
   {
     "ID": 700046,
-    "Project Name": "Cardano NFT Art Festival",
+    "ProjectName": "Cardano NFT Art Festival",
     "About": "We will bridge Japanese/English communities with an Annual Cardano NFT Art Festival in Japan with local/international artists.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2696,7 +2696,7 @@
   },
   {
     "ID": 700263,
-    "Project Name": "Vietnamese Cardano Community's Hub",
+    "ProjectName": "Vietnamese Cardano Community's Hub",
     "About": "Establish an info centre with website,youtube,blog...to provide the community official information and documents about Cardano in Vietnamese",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2707,7 +2707,7 @@
   },
   {
     "ID": 700175,
-    "Project Name": "Mobile App: NFT/Token Gallery",
+    "ProjectName": "Mobile App: NFT/Token Gallery",
     "About": "Create a mobile app that ingest wallet address' and downloads linked NFTs for storing and organizing on the users device.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2718,7 +2718,7 @@
   },
   {
     "ID": 700150,
-    "Project Name": "IRONSKY PlaytoEarn Milestone of ADA",
+    "ProjectName": "IRONSKY PlaytoEarn Milestone of ADA",
     "About": "We want to create a Highly Entertaining PlaytoEarn Game focusing on NFT integration into Metaverse to attract Gamers, Investors to Cardano.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2729,7 +2729,7 @@
   },
   {
     "ID": 700005,
-    "Project Name": "2MIN REVIEW Integrated Platform",
+    "ProjectName": "2MIN REVIEW Integrated Platform",
     "About": "Building an integrated platform and mobile application for accessing Catalyst's contents which are filtered, analyzed by 2Min Review",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2740,7 +2740,7 @@
   },
   {
     "ID": 700219,
-    "Project Name": "QA-DAO Transcription Service",
+    "ProjectName": "QA-DAO Transcription Service",
     "About": "Transcribe, time-stamp and summarise the Zoom videos of key community events, making them accessible, searchable, and translatable.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2751,7 +2751,7 @@
   },
   {
     "ID": 700216,
-    "Project Name": "Project Evaluation Website",
+    "ProjectName": "Project Evaluation Website",
     "About": "Building a website to help investors self-assess the projects they are interested in through questions to know if the project is good or not",
     "Category": "Company",
     "PartOfACompany": "vcoincheck",
@@ -2762,7 +2762,7 @@
   },
   {
     "ID": 700252,
-    "Project Name": "Terra Cognita: AI+Blockchain Gaming",
+    "ProjectName": "Terra Cognita: AI+Blockchain Gaming",
     "About": "Terra Cognita, an online, cooperative, strategy, RPG game, where players create and set AI/ML based characters to explore a whole new world.",
     "Category": "Idea - company",
     "PartOfACompany": "",
@@ -2773,7 +2773,7 @@
   },
   {
     "ID": 700090,
-    "Project Name": "Dataset - Stake Pool Analytics",
+    "ProjectName": "Dataset - Stake Pool Analytics",
     "About": "Open-source code repository for generating an analytics dataset from a mixture of on chain db-sync data and external data sources",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2784,7 +2784,7 @@
   },
   {
     "ID": 700012,
-    "Project Name": "Ada Donation Widget",
+    "ProjectName": "Ada Donation Widget",
     "About": "A simple and easy-to-use donation widget that can be embedded into your website to receive crypto donations in Ada or Native tokens.",
     "Category": "Company",
     "PartOfACompany": "Voilibra",
@@ -2795,7 +2795,7 @@
   },
   {
     "ID": 700014,
-    "Project Name": "Ada payment link generator",
+    "ProjectName": "Ada payment link generator",
     "About": "A simple Ada Payment Links Generator by Volibra",
     "Category": "Company",
     "PartOfACompany": "Voilibra",
@@ -2806,7 +2806,7 @@
   },
   {
     "ID": 700139,
-    "Project Name": "Identify patterns on Transaction",
+    "ProjectName": "Identify patterns on Transaction",
     "About": "A Deep learning approach in Managing risk – through transaction pattern discovery to determine emerging risk in Crypto Payment behaviour",
     "Category": "Company",
     "PartOfACompany": "Voilibra",
@@ -2817,7 +2817,7 @@
   },
   {
     "ID": 700203,
-    "Project Name": "P2P:Trade Cardano tokens with Cash",
+    "ProjectName": "P2P:Trade Cardano tokens with Cash",
     "About": "A Peer to Peer exchange where Africans can buy or sell Cardano Blockchain tokens with Local Fiat Currencies",
     "Category": "Company",
     "PartOfACompany": "Voilibra",
@@ -2828,7 +2828,7 @@
   },
   {
     "ID": 700230,
-    "Project Name": "Shopify Plugin: Accept Ada in Store",
+    "ProjectName": "Shopify Plugin: Accept Ada in Store",
     "About": "A Shopify plugin with COTI Integration that allows merchants to accept payments in Ada seamlessly and safely",
     "Category": "Company",
     "PartOfACompany": "Voilibra",
@@ -2839,7 +2839,7 @@
   },
   {
     "ID": 700144,
-    "Project Name": "Influencing Policy for Adoption",
+    "ProjectName": "Influencing Policy for Adoption",
     "About": "Organize 2 high profile events in 2 African countries to show Cardano use and adoption benefits & onboard policy makers to local Cardano hub",
     "Category": "Community",
     "PartOfACompany": "WADA",
@@ -2850,7 +2850,7 @@
   },
   {
     "ID": 700268,
-    "Project Name": "Zimbabwe Developers for Cardano",
+    "ProjectName": "Zimbabwe Developers for Cardano",
     "About": "Bring local Zimbabwe devs on a discovery journey of the Cardano protocol through hackathons, training and dApp design.",
     "Category": "Community",
     "PartOfACompany": "WADA",
@@ -2861,7 +2861,7 @@
   },
   {
     "ID": 700001,
-    "Project Name": "@chain-lib Cardano API Plugins",
+    "ProjectName": "@chain-lib Cardano API Plugins",
     "About": "Create a plugin system for chain-lib/cardano-api, starting with a way to get off-chain data, with blockfrost being an official first plugin.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2872,7 +2872,7 @@
   },
   {
     "ID": 700002,
-    "Project Name": "@chain-lib Documentation Website",
+    "ProjectName": "@chain-lib Documentation Website",
     "About": "Create a proper documentation website to make it easy for developers to use the API, and to ease the creation of plugins.",
     "Category": "Tech tools",
     "PartOfACompany": "",
@@ -2883,7 +2883,7 @@
   },
   {
     "ID": 700106,
-    "Project Name": "Easy Engagement - New Members - AIM",
+    "ProjectName": "Easy Engagement - New Members - AIM",
     "About": "A platform that matches between funded proposals needs and member expertise.",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2894,7 +2894,7 @@
   },
   {
     "ID": 700131,
-    "Project Name": "Geneva Business Development Hub",
+    "ProjectName": "Geneva Business Development Hub",
     "About": "Collaborate with local players (i.e. sfgeneva.org, Seedstars, Impacthub) to promote finance and impact on Catalyst and Cardano",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2905,7 +2905,7 @@
   },
   {
     "ID": 700243,
-    "Project Name": "Strategy Framework - AIM",
+    "ProjectName": "Strategy Framework - AIM",
     "About": "Research, analysis, and evaluation of the Catalyst ecosystem, develop bespoke, custom dedicated strategies ready for implementation",
     "Category": "Catalyst",
     "PartOfACompany": "",
@@ -2916,7 +2916,7 @@
   },
   {
     "ID": 700134,
-    "Project Name": "Hardware wallet site / 10meetup JP",
+    "ProjectName": "Hardware wallet site / 10meetup JP",
     "About": "Create a comprehensive explanation site for security (e.g. hardware wallets) in Japanese + hold 10 meetups",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2927,7 +2927,7 @@
   },
   {
     "ID": 700148,
-    "Project Name": "Introducing 100 Cardano Defi in JP",
+    "ProjectName": "Introducing 100 Cardano Defi in JP",
     "About": "Introduce 100 briefly and 10 in detail about Defi in Japanese.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2938,7 +2938,7 @@
   },
   {
     "ID": 700152,
-    "Project Name": "Japanese FUD / SCAM Buster 100",
+    "ProjectName": "Japanese FUD / SCAM Buster 100",
     "About": "We will create a team to deal with Japanese SCAM and FUD (ADA is gambling coin etc.) and deal with it as much as possible.",
     "Category": "Community",
     "PartOfACompany": "",
@@ -2949,7 +2949,7 @@
   },
   {
     "ID": 700245,
-    "Project Name": "Survey+Lobbying of Japanese Law",
+    "ProjectName": "Survey+Lobbying of Japanese Law",
     "About": "A Comprehensive Survey of Japanese Law + Send at least two letters of opposition to excessive legal systems",
     "Category": "Community",
     "PartOfACompany": "",
